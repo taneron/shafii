@@ -12,7 +12,10 @@ export interface Props {
 }
 
 export async function getStaticPaths() {
-  const posts = await getCollection("posts", ({ data }) => !data.published);
+  const posts = await getCollection(
+    "posts",
+    ({ data }) => data.published === true
+  );
 
   const postResult = posts.map(post => ({
     params: { slug: slugify(post.data) },

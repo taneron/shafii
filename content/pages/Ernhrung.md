@@ -1,5 +1,0 @@
----
-label: Ernährung
-postslug: ernaehrung
----
-

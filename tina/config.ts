@@ -29,6 +29,35 @@ export default defineConfig({
   schema: {
     collections: [
       {
+        name: "category",
+        label: "Categories",
+        path: "src/content/category",
+        format: "md",
+        fields: [
+          {
+            type: "string",
+            name: "label",
+            label: "Label",
+            isTitle: true,
+            required: true,
+          },
+          {
+            type: "string",
+            name: "description",
+            label: "Description",
+          },
+          {
+            type: "string",
+            name: "slug",
+            label: "Slug",
+            isTitle: false,
+            required: true,
+            description: "The slug must be the same as the tag name"
+          }
+        ],
+
+      },
+      {
         name: "page",
         label: "Pages",
         path: "src/content/pages",
@@ -60,7 +89,7 @@ export default defineConfig({
         fields: [
           {
             type: "datetime",
-            name: "posted",
+            name: "date",
             label: "Date Posted",
             required: true,
           },
@@ -89,6 +118,12 @@ export default defineConfig({
             label: "Slug",
             isTitle: false,
             required: true,
+          },
+          {
+            type: "reference",
+            name: "category",
+            label: "Category",
+            collections: ['category'],
           },
           {
             type: "boolean",

@@ -1,5 +1,0 @@
----
-label: Gebet
-postslug: gebet
----
-

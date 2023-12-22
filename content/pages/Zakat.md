@@ -1,5 +1,0 @@
----
-label: Zakat
-postslug: zakat
----
-

@@ -1,14 +1,13 @@
 import { SITE } from "@config";
 import { defineCollection, z } from "astro:content";
 
-
 const posts = defineCollection({
   type: "content",
   schema: ({ image }) =>
     z.object({
       published: z.boolean().default(false),
       author: z.string().default(SITE.author),
-      posted: z.date(),
+      date: z.date(),
       title: z.string(),
       postslug: z.string().optional(),
       featured: z.boolean().default(false),

@@ -1,0 +1,204 @@
+---
+title: 'Was vom Tier ist wann rein und wann unrein?'
+featured: false
+date: '2018-11-11T15:26:36+01:00'
+published: true
+slug: /was-vom-tier-ist-wann-rein-unrein
+author: 'Ibn Abdullah'
+excerpt: 'Wenn man dieses Thema einigermaßen gut versteht, fehlt nur noch der Fiqh zum Alkohol (bzw. Khamr) und man hat das Kapitel über die Najāsāt gewissermaßen abgeschlossen inshāAllāh, weil Najāsāt hauptsächlich tierischer Quelle sind.'
+type: post
+id: 318
+image: /uploads/2018/10/dog-313357_1280.jpg
+category:
+    - Ernährung
+    - Kleidung
+    - Taharah
+tags:
+    - eier
+    - fell
+    - fiqh
+    - gelatine
+    - katzenhaare
+    - lab
+    - leder
+    - madhhab
+    - maytah
+    - milch
+    - najis
+    - rein
+    - shafi
+    - tahir
+    - tier
+    - unrein
+post_format: []
+timeline_notification:
+    - '1541946424'
+---
+Bismillāhir-rahmānir-rahīm.  
+Al-hamdu lillāhi rabbil-ālamīn.  
+Was-salātu was-salāmu alā rasūlinā muhammad,  
+wa alā ālihi wa sahbihi ajma’īn
+
+In Deinem Namen lernen wir diese Dinge und nur Dir gegenüber müssen wir uns am Ende rechtfertigen.
+
+- - - - - -
+
+Wenn man dieses Thema einigermaßen gut versteht, fehlt nur noch der Fiqh zum Alkohol (bzw. Khamr) und man hat das Kapitel über die Najāsāt gewissermaßen abgeschlossen inshāAllāh, weil Najāsāt hauptsächlich tierischer Quelle sind.
+
+Fragestellungen wie „Darf man Inhaltsstoff x essen“ oder „Kleidung y tragen“, sollten dann auch deutlich einfacher werden.
+
+#### Inhaltsverzeichnis
+
+1. Einleitung für ein korrektes Verständnis 
+  - Bedeutung von *Maytah*
+  - Hunde und Schweine werden ignoriert
+  - ‚Sondergruppe‘
+  - ‚Essbar‘ und ’nicht-essbar‘
+2. Vier Regeln 
+  - Jedes lebendige Tier ist von Kopf bis Fuß rein
+  - Jedes Maytah ist von Kopf bis Fuß unrein
+  - Jede Haut und jedes Fell eines unreinen Tieres kann durch das Gerben wieder rein gemacht werden
+  - Jeder Teil, der von einem lebendigen Tier getrennt wurde, ist wie das Maytah dieses Tieres
+3. Praktische Anwendung dieser Regeln 
+  - Gelatine
+  - Katzenhaare
+  - Leder
+  - Lab
+  - Milch
+
+- - - - - -
+
+Empfohlener Beitrag, damit man das Thema besser versteht: [Welche Tiere man essen darf und welche nicht](https://shafii-madhhab.de/welche-tiere-man-essen-darf-und-welche-nicht/)
+
+### 1. Einleitung für ein korrektes Verständnis
+
+Damit das Thema möglichst einfach vermittelt werden kann, müssen die folgenden vier Dinge im Voraus geklärt werden:
+
+#### 1a. Bedeutung von *Maytah*
+
+Damit wird jedes tote Tier bezeichnet, mit Ausnahme von Tieren, die
+
+1. korrekt islamisch geschächtet wurden und
+2. selbstverständlich auch zum Essen erlaubt sind, wie beispielsweise Kühe oder Schafe.
+
+Diese Maytah-Gegenkategorie nenne ich im Text einfach nur *geschächtete Tiere*.
+
+#### 1b. Hunde und Schweine werden ignoriert
+
+Hunde und Schweine werden laut dem Shāfi’ī-Madhhab als komplett schwer unrein angesehen. **Nichts von ihnen ist rein oder kann jemals rein werden, mit keiner einzigen Ausnahme.** Im Text spare ich es mir daher, ständig „*… ist rein, außer bei Hunden und Schweinen*“ zu schreiben.
+
+#### 1c. ‚Sondergruppe‘
+
+Mit dem Begriff ‚Sondergruppe‘ bezeichne ich im Nachfolgenden
+
+- Menschen,
+- Meerestiere (aber nicht z.B. Amphibien) und
+- Heuschrecken.
+
+#### 1d. ‚Essbar‘ und ’nicht-essbar‘
+
+Wenn ich von **„*****essbaren*****“** oder **„*****nicht-essbaren*****“ Tieren** rede, dann meine ich nur, ob man das Fleisch des Tieres allgemein essen dürfte und nicht ob es auch korrekt geschächtet wurde oder nicht.
+
+### 2. Vier Regeln
+
+#### 2a. Jedes lebendige Tier ist von Kopf bis Fuß rein
+
+Die Ausnahme stellen bei allen Tieren die folgenden Substanzen dar:
+
+- Kot, Urin,
+- Blut, Eiter,
+- Wadī, Madhī, und
+- Übergebenes.
+
+#### 2b. Jedes Maytah ist von Kopf bis Fuß unrein
+
+Für die Sondergruppe gilt diese allgemeine Regel nicht.
+
+> ALLAH (subhanahu wa ta’ala) sagt:
+> 
+> حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ
+> 
+> Sinngemäß übersetzt: „Verboten ist euch das Maytah.“
+> 
+> <cite>\[Sure 5, Vers 3\]  
+> </cite>
+
+Tiere ohne fließendes Blut (also z.B. Insekten wie Fliegen) stellen keine Ausnahme dar und wären somit dann auch unrein.
+
+#### 2c. Jede Haut und jedes Fell eines unreinen Tieres kann durch das Gerben wieder rein gemacht werden
+
+> Der Prophet (ﷺ) sagte sinngemäß:
+> 
+> „*Wenn die Haut des Tieres gegerbt wurde, ist sie gereinigt.*„
+> 
+> <cite>\[Sahih Muslim, Nr. 366\]</cite>
+
+#### 2d. Jeder Teil, der von einem lebendigen Tier getrennt wurde, ist wie das Maytah dieses Tieres
+
+Also unrein, außer bei der Sondergruppe, wie in Regel 2 beschrieben wurde.
+
+> Der Prophet (ﷺ) sagte sinngemäß:
+> 
+> *„Was von dem Tier getrennt wird, während es noch am Leben ist, ist (wie sein) Maytah.*„
+> 
+> <cite>\[Sunan Abu Dawud, Nr. 2858\]</cite>
+
+Mit „Teil“ kann ein ausgefallenes Haar oder sogar ein ganzer abgetrennter Arm gemeint sein.
+
+Ausnahmen, die durch das Trennen von dem lebenden Tier nicht unrein werden:
+
+- Reine Körperflüssigkeiten wie Schweiß, Tränen, Speichel, Nasenschleim oder Ohrenschmalz. (Die Milch fällt jedoch nicht unter diese allgemeine Ausnahme.)
+- Die Milch, die Haare, die Wolle, der Misk, die Federn und die Nägel **von essbaren Tieren.**
+- Eier
+
+### 3. Praktische Anwendung dieser Regeln
+
+Nun folgen einige Beispiele, um die praktische Anwendung besser verstehen zu können.
+
+#### 3a.) Gelatine
+
+Die Gelatine von Tieren ist nur rein, wenn sie von einem geschächteten Tier stammt. Es reicht daher nicht, wenn die Gelatine nur nicht vom Schwein stammt.
+
+**Begründung**:  
+Gelatine ist ein Teil eines Tieres, welches nach dem Tod des Tieres entnommen wird. Wenn das Tier daher Maytah ist, ist seine Gelatine unrein (**Regel 2**).
+
+#### 3b.) Katzenhaare
+
+Katzen verlieren gewöhnlich viele Haare. Diese werden in dem Moment, wenn sie abfallen, unrein.
+
+**Begründung**:  
+Abgefallene Katzenhaare sind Teile von einem lebenden Tier, die von diesem getrennt wurden. Weil die Ausnahme bei Haaren nur für essbare Tiere gilt, sind abgefallene Katzenhaare daher unrein (**Regel 4**).
+
+\[Eine kleine Menge von Katzenhaaren ist jedoch entschuldigt.  
+Hierzu folgt inshaAllah noch ein eigener Beitrag.\]
+
+#### 3c.) Leder
+
+Leder wird immer als rein angesehen.
+
+**Begründung**:  
+Die Haut bzw. das Fell wird durch das Gerben zu Leder verarbeitet. Spätestens durch das Gerben werden diese daher auch rein (**Regel 3**).
+
+Sollte das Tier geschächtet sein, dann wäre die Haut bzw. das Fell bereits ohne Gerbung rein. \[Aber wer will schon sowas ohne Gerbung tragen?\]
+
+#### 3d.) Lab
+
+Ein detaillierter Beitrag dazu kann [hier ](https://shafiimadhhab.wordpress.com/2020/01/20/qa-ist-kase-der-tierisches-lab-beinhaltet-halal/)gefunden werden.
+
+#### 3e.) Milch
+
+Die entnommene Milch von
+
+- einem Menschen ist **rein**.
+- einem lebenden essbaren Tier ist **rein**.
+- einem toten essbaren Tier, welches korrekt geschächtet wurde, ist **rein**.
+- einem toten essbaren Tier, welches nicht korrekt geschächtet wurde, ist **unrein**.
+- einem nicht essbaren Tier ist **unrein**, egal ob lebend oder tot.
+
+Die Begründung sollte bei diesem Punkt nicht allzu schwer sein.
+
+**\[siehe Reliance of the Traveller und Fiqh al-Ibādāt (von Shaykhah Hājjah Durriyah al-Aytah), Mukhtasar as-Saghīr, Mughnī al-Muhtāj, Hāshiya al-Bajūrī\]**
+
+Ich kann nicht ganz ausschließen, dass es zu dem Genannten keine sehr spezielle Sonderfälle geben kann. Das Genannte sollte trotzdem zum Praktizieren reichen.
+
+Und ALLĀH ta’ālā weiß es am besten.

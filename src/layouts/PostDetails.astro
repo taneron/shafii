@@ -6,6 +6,7 @@ import Tag from "@components/Tag.astro";
 import Datetime from "@components/Datetime";
 import type { CollectionEntry } from "astro:content";
 import { slugifyStr } from "@utils/slugify";
+import { SITE } from "@config";
 
 export interface Props {
   post: CollectionEntry<"posts">;
@@ -13,12 +14,13 @@ export interface Props {
 
 const { post } = Astro.props;
 
-const { title, author, description, ogImage, canonicalURL, pubDatetime, tags } =
-  post.data;
+console.log(post);
+
+const { title, author, excerpt, image, postslug, date, tags } = post.data;
 
 const { Content } = await post.render();
 
-const ogImageUrl = typeof ogImage === "string" ? ogImage : ogImage?.src;
+const ogImageUrl = typeof image === "string" ? image : image?.src;
 const ogUrl = new URL(
   ogImageUrl ?? `/posts/${slugifyStr(title)}.png`,
   Astro.url.origin
@@ -30,9 +32,9 @@ const einleitung: boolean = true;
 <Layout
   title={title}
   author={author}
-  description={description}
+  description={excerpt}
   ogImage={ogUrl}
-  canonicalURL={canonicalURL}
+  canonicalURL={SITE.website + "/" + postslug}
 >
   <Header />
   <div class="mx-auto flex w-full max-w-3xl justify-start px-2">
@@ -67,7 +69,7 @@ const einleitung: boolean = true;
       )
     }
 
-    <Datetime datetime={pubDatetime} size="lg" className="my-2" />
+    <Datetime datetime={date} size="lg" className="my-2" />
     <article id="article" role="article" class="prose mx-auto mt-8 max-w-3xl">
       <Content />
     </article>

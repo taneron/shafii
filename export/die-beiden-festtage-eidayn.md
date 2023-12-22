@@ -1,0 +1,183 @@
+---
+title: 'Die beiden Festtage &#8211; Eidayn'
+featured: false
+date: '2019-06-04T00:43:46+01:00'
+published: true
+slug: /die-beiden-festtage-eidayn
+author: 'Ibn Abdullah'
+excerpt: 'Ein Beitrag, der so einiges zu den beiden islamischen Festtagen behandelt.'
+type: post
+id: 1632
+image: /uploads/2018/08/sunset-3209679_1280.jpg
+category:
+    - Allgemein
+    - Gebet
+tags:
+    - adha
+    - Eid
+    - fitr
+    - opfer
+    - salah
+    - takbir
+    - takbirat
+post_format: []
+timeline_notification:
+    - '1559605435'
+---
+Bismillāhir-rahmānir-rahīm.  
+Al-hamdu lillāhi rabbil-ālamīn.  
+Was-salātu was-salāmu alā rasūlinā muhammad,  
+wa alā ālihi wa sahbihi ajma’īn
+
+In Deinem Namen lernen wir diese Dinge und nur Dir gegenüber müssen wir uns am Ende rechtfertigen.
+
+- - - - - -
+
+Es gibt jährlich zwei Festtage an denen ein besonderes Gebet mit zwei Gebetseinheiten verrichtet wird:
+
+1. **Eid al-Fitr:** Der 1. Shawwāl, also der Tag nach dem letzten Ramadān-Tag..
+2. **Eid al-Adhā:** Das sogenannte ‚*Opferfest*‚, welches rund zwei Monate später am 10. Dhul Hijjah zur Hajj-Saison stattfindet.
+
+In diesem Beitrag werden nun einige Dinge dieser Tage aus der Sicht des Fiqh behandelt.
+
+1. Allgemeine Sunan dieser Tage
+  - Uneingeschränkte Takbīrāt
+  - Eingeschränkte Takbīrāt
+  
+  
+  - Ghusl
+  - Essen
+  - Wann man zum Gebet geht
+  - Sich festlich kleiden
+2. Näheres zum Gebet
+  - Urteil
+  - Gebetsort
+  - Zum Gebet rufen
+  - Gebetszeit
+  
+  
+  - Zusätzliche Takbīrāt
+  - Empfohlene Surah’s
+  - Khutbah’s nach dem Gebet
+
+### 1. Allgemeine Sunan dieser Tage
+
+#### 1a. Uneingeschränkte Takbīrāt
+
+Es gibt einen bestimmten empfohlenen Takbīrāt-Dhikr, den man am Tag von Eid (Fitr oder Adhā) beliebig oft vor dem Eid-Gebet aufsagen kann. Dieser Dhikr wird als die uneingeschränkten Takbīrāt bezeichnet.
+
+Der Wortlaut:
+
+„*Allāhu akbar, Allāhu akbar, Allāhu akbar.*  
+*Lā ilāha illAllāh, wAllāhu akbar*  
+*Allāhu akbar wa lillāhil-Hamd*.“
+
+Man sagt diese Takbīrāt grundsätzlich hörbar laut auf, außer man befindet sich als Frau in Hörweite von fremden Männern.
+
+Der Zeitraum für die uneingeschränkten Takbīrāt beginnt mit der Maghrib-Gebetszeit vor dem Eid-Gebet und dauert bis zum Eid-Gebet an.
+
+Die Rede ist von „uneingeschränkten Takbīrāt“, weil diese Takbīrāt nicht an ein bestimmtes Ereignis gebunden sind, sondern gewissermaßen *einfach so* aufgesagt werden können. Im Gegensatz hierzu gäbe es da noch die *eingeschränkten Takbīrāt* von Eid al-Adhā, die als nächstes behandelt werden.
+
+#### 1b. Eingeschränkte Takbīrāt
+
+Die eingeschränkten Takbīrāt sind nach den Gebeten empfohlen. Sie sind eingeschränkt, weil diese Takbīrāt an ein Ereignis, also die Gebete, gebunden sind und nicht einfach so aufgesagt werden.
+
+Der Wortlaut ist bei den eingeschränkten Takbīrāt derselbe wie bei den uneingeschränkten Takbīrāt. Die eingeschränkten Takbīrāt werden genauso hörbar laut aufgesagt.
+
+Der Zeitraum für die eingeschränkten Takbīrāt beginnt mit dem Fajr-Pflichtgebet am Tag von Arafah (also dem 9. Dhul Hijjah) und endet mit dem Ende der Asr-Gebetszeit am letzten Tag der drei Tage, die Eid al-Adhā folgen (also dem 13. Dhul Hijjah). Das wären also rund 4,5 Tage.
+
+Die eingeschränkten Takbīrāt werden nicht nur nach den Pflichtgebeten aufgesagt, sondern nach \*allen\* Gebeten; auch wenn es sich nur um ein freiwilliges Gebet handelt, das man alleine verrichtet. Sogar nach einem [Beerdigungsgebet](https://shafiimadhhab.wordpress.com/2018/10/19/beerdigungsgebet-salat-al-janazah/) sollten sie aufgesagt werden!
+
+Bei den Pflichtgebeten sollten die Takbīrāt noch vor den Adhkār aufgesagt werden, die man normalerweise direkt nach den Pflichtgebeten aufsagt, wie beispielsweise Āyat al-Kursī.
+
+Im Gegensatz zu den uneingeschränkten Takbīrāt gibt es nur bei Eid al-Adhā die eingeschränkten Takbīrāt! Weil es bei Eid al-Fitr jedoch noch die uneingeschränkten Takbīrāt gibt, die man grundsätzlich aufsagen kann, wann man will, könnte man diese theoretisch auch nach den Gebeten aufsagen. Bei den Pflichtgebeten sollte man die uneingeschränkten Takbīrāt dann aber erst nach den Adhkār der Pflichtgebete aufsagen statt davor.
+
+Sollte man die eingeschränkten Takbīrāt nach dem Gebet vergessen, kann man diese später nachholen, auch wenn eine längere Zeit vergangen ist.
+
+Sie stellen sowohl für Männer als auch für Frauen eine Sunnah dar. Ob man sich auf der Reise befindet oder nicht spielt auch keine Rolle.
+
+#### 1c. Ghusl
+
+Ab Mitternacht wäre es empfohlen, sich mit einem Ghusl auf den Festtag vorzubereiten. Hierbei spielt es keine Rolle, ob man auch vor hat, später am Gebet teilzunehmen, oder nicht. Den Ghusl erst nach dem Eintritt der Fajr-Gebetszeit zu vollziehen, wäre jedoch besser.
+
+#### 1d. Essen
+
+Am Tag von Eid al-Adhā wäre es empfohlen, erst nach dem Gebet etwas zu essen. Im Gegensatz hierzu wäre es am Tag von Eid al-Fitr empfohlen, vor dem Gebet eine ungerade Anzahl an Datteln zu essen.
+
+#### 1e. Wann man zum Gebet geht
+
+Man sollte sich nach dem Fajr-Gebet früh zu Fuß zum Eid-Gebet begeben und auf dem Rückweg dann einen anderen Weg nehmen. Der Imām sollte erst zur Gebetszeit erscheinen.
+
+#### 1f. Sich festlich kleiden
+
+Darüber hinaus wäre es empfohlen, sich der Festlichkeit entsprechend schön zu kleiden und zu parfümieren. Frauen sollten es jedoch vorziehen, sich nicht zu parfümieren oder besonders zu kleiden, um keine vermeidbare Aufmerksamkeit von Männern auf sich zu ziehen.
+
+### 2. Näheres zum Eid-Gebet
+
+#### 2a. Urteil
+
+Das Eid-Gebet stellt laut der Madhhab eine starke Sunnah (*Sunnah Mu’akkadah*) dar. Das gilt genauso für Frauen.
+
+Es wäre empfohlen, es in der Gemeinschaft zu verrichten, aber man könnte es auch genauso alleine verrichten.
+
+Das Teilnehmen am Eid-Gebet wäre für Frauen, welche die Aufmerksamkeit von Männern auf sich ziehen würden, jedoch nicht empfohlen. Für sie wäre das Eid-Gebet zwar immer noch stark empfohlen, aber die Teilnahme an einem gemischten öffentlichen Eid-Gebet hingegen nicht. Sie könnten es dann in einer Frauen-Gemeinschaft oder einfach alleine beten.
+
+#### 2b. Gebetsort
+
+Falls genug Platz in einer Moschee vorhanden ist, wäre es besser, das Gebet dort zu verrichten. Falls nicht, verrichtet man es draußen an einer offenen Fläche.
+
+Hierbei handelt es sich um Empfehlungen. Es könnte rein theoretisch also auch zu Hause alleine oder mit der Familie verrichtet werden.
+
+#### 2c. Zum Gebet rufen
+
+Die Menschen mit den Worten „*Versammlung zum Gebet*“ (*Salātul Jāmi’ah*) zum gemeinschaflichen Eid-Gebet zu rufen, wäre empfohlen.
+
+#### 2d. Gebetszeit
+
+Seine Gebetszeit fängt mit dem Ende des Sonnenaufganges an und endet mit dem Beginn der Dhuhr-Gebetszeit.
+
+Der empfohlene Zeitabschnitt beginnt jedoch erst, wenn die Sonne eine Speerhöhe bzw. ihren eigenen Durchmesser weit über dem Horizont steht. Man kann von rund 20 Minuten nach dem Sonnenaufgang ausgehen.
+
+#### 2e. Zusätzliche Takbirat
+
+Beide Gebetseinheiten werden mit einer bestimmten Anzahl von zusätzlichen Takbīrāt eingeleitet.
+
+In der **ersten Rak’ah** werden **sieben Takbīrāt** nach Du’a al-Iftitah und vor dem Ta’awwudh aufgesagt. Der Takbīr mit dem man das Gebet beginnt, gehört selbstverständlich nicht zu diesen sieben.
+
+In der **zweiten Rak’ah** werden dann **fünf Takbīrāt** nach dem Aufstehen und vor dem Ta’awwudh aufgesagt. Der Takbīr mit dem man nach der Niederwerfung aufsteht, gehört natürlich auch nicht zu diesen fünf.
+
+Das Vergessen dieser zusätzlichen Takbīrāt würde kein Problem darstellen, weil diese lediglich empfohlen sind. Sobald man mit der Rezitation von Surat al-Fatihah begonnen hat, hat man diese Sunnah jedoch verpasst und kehrt auch nicht mehr zu den Takbirat zurück.
+
+Das Hinzufügen zusätzlicher Takbīrāt wäre auch möglich. Daher könnte man auch ohne Weiteres einem Imām folgen, der mehr oder weniger Takbīrāt aufsagt.
+
+Wenn man sich nicht sicher ist, wie viele Takbīrāt man schon aufgesagt hat, geht man sicherheitshalber von der niedrigeren Option aus.
+
+Diese zusätzlichen Takbīrāt werden alle laut aufgesagt, man hebt dabei jedes Mal seine Hände und senkt sie zwischendrin dann auch wieder zurück zu ihrer gebundenen Position.
+
+Mitbeter sagen die einzelnen Takbīrāt nicht gleichzeitig, sondern erst nach dem Imām.
+
+Zwischen den Takbīrāt wäre es empfohlen, leise den folgenden Dhikr aufzusagen: „*SubhānAllāh walhamdulillāh wa lā ilāha illAllāhu wAllāhu akbar*„
+
+#### 2f. Laut oder leise
+
+Das Eid-Gebet wird genauso wie beispielsweise das Fajr-Pflichtgebet laut verrichtet.
+
+#### 2g. Empfohlene Surah’s
+
+In der ersten Gebetseinheit wäre es empfohlen, die Surah Qāf zu rezitieren und in der zweiten Gebetseinheit die Surah al-Qamar.
+
+Alternativ könnte man auch die Surah al-A’lā mit der Surah al-Ghāshiyah oder die Surah al-Kāfīrūn mit der Surah al-Ikhlās rezitieren.
+
+#### 2h. Khutbah nach dem Gebet
+
+Nach dem Eid-Gebet wäre das Abhalten von zwei Khutbahs empfohlen, wenn mindestens zwei Zuhörer vorhanden sind. Wenn Frauen unter sich das Eid-Gebet verrichten, sollten sie keine (offiziellen) Khutbahs abhalten.
+
+Die Urteile bezüglich der Khutbahs am Freitag gelten auch für diese Khutbahs.
+
+Es wäre für den Imam empfohlen, für die Dauer eines Adhans sitzend zu warten bevor er mit der Khutbah beginnt.
+
+Die erste Khutbah wird hier mit neun Takbīrāt und die zweite Khutbah mit sieben Takbīrāt eingeleitet. Diese Takbīrāt werden direkt aufeinanderfolgend ohne eine Pause aufgesagt, im Gegensatz zu den Takbīrāt im Gebet.
+
+**\[siehe Reliance of the Traveller\]**
+
+Und ALLĀH ta’ālā weiß es am besten.

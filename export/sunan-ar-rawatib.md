@@ -1,0 +1,138 @@
+---
+title: 'Sunan ar-Rawātib'
+featured: false
+date: '2019-03-08T22:46:12+01:00'
+published: true
+slug: /sunan-ar-rawatib
+author: 'Ibn Abdullah'
+excerpt: 'Alles rund um die Sunnah Gebete, die mit den Pflichtgebeten verbunden sind.'
+type: post
+id: 194
+image: /uploads/2018/11/cropped-8a3fd69b7de6a524dbddb7d77d3978a3-arabic-design-prayer-room.jpg
+category:
+    - Gebet
+tags:
+    - asr
+    - dhuhr
+    - fajr
+    - fard
+    - ghayr
+    - isha
+    - maghrib
+    - muakkadah
+    - nach
+    - nachholen
+    - pflicht
+    - sunan
+    - sunnah
+    - vor
+    - witr
+    - zeit
+post_format: []
+timeline_notification:
+    - '1552081581'
+---
+Bismillāhir-rahmānir-rahīm.  
+Al-hamdu lillāhi rabbil-ālamīn.  
+Was-salātu was-salāmu alā rasūlinā muhammad,  
+wa alā ālihi wa sahbihi ajma’īn
+
+In Deinem Namen lernen wir diese Dinge und nur Dir gegenüber müssen wir uns am Ende rechtfertigen.
+
+- - - - - -
+
+In Verbindung mit den fünf Pflichtgebeten ist zusätzlich noch das Verrichten von bestimmten Sunnah-Gebeten empfohlen, die als Sunan ar-Rawātib bezeichnet werden.
+
+#### Inhaltsverzeichnis
+
+1. Arten von Sunan ar-Rawātib
+2. Sunan ar-Rawātib von Salāt al-Jumu’ah
+3. Gebetszeiten der Sunan ar-Rawātib
+4. Nachholen der Sunan ar-Rawātib
+
+### 1. Arten von Sunan ar-Rawātib
+
+Sie werden in zwei Kategorien unterteilt:
+
+- **Sunnah Mu’akkadah**  
+  Diese Sunan wurden vom Propheten (ﷺ) stets eingehalten.
+- **Sunnah Ghayr Mu’akkadah**  
+  Das Gegenstück zur Sunnah Mu’akkadah.
+
+#### 1a. Sunnah Mu’akkadah
+
+> Abdullāh Ibn Umar (radīAllāhu anhu) sagte sinngemäß:
+> 
+> „Der Gesandte ALLĀHs (ﷺ) betete gewöhnlich zwei Gebetseinheiten vor dem Dhuhr-Gebet und zwei Gebetseinheiten danach. Er betete auch zwei Gebetseinheiten nach dem Maghrib-Gebet in seinem Haus und zwei Gebetseinheiten nach dem Isha-Gebet.“ \[…\]
+> 
+> <cite>\[Sahīh al-Bukhārī, Nr. 937\] </cite>
+
+<div class="wp-block-image"><figure class="aligncenter is-resized">![](https://i0.wp.com/shafii-madhhab.de/wp-content/uploads/2019/02/sunan-m.png?resize=480%2C210)</figure></div>Und zusätzlich zu diesen zehn Gebetseinheiten gäbe es da noch das sehr wichtige Witr-Gebet, welches jedoch nicht zu den Sunan ar-Rawātib gezählt wird. Die zwei Gebetseinheiten nach dem Ishā-Gebet sind daher nicht als Teil des Witr-Gebets anzusehen!
+
+Näheres zum Witr-Gebet: [Witr](https://shafii-madhhab.de/witr/)
+
+#### 1b. Sunnah Ghayr Mu’akkadah
+
+<div class="wp-block-image"><figure class="aligncenter is-resized">![](https://i0.wp.com/shafii-madhhab.de/wp-content/uploads/2019/02/sunan-gm.png?resize=496%2C225)</figure></div>Die zwei Gebetseinheiten **Sunnah Muakkadah** vor und nach dem Dhuhr-Gebet und die zwei Gebetseinheiten **Sunnah Ghayr Mu’akkadah** vor und nach dem Dhuhr-Gebet werden nicht zu jeweils vier Gebetseinheiten zusammengelegt, sondern separat verrichtet. Sie zusammen zu beten, wäre zwar möglich, aber nicht die bessere Option.
+
+Das Gleiche gilt auch für das Sunnah-Gebet vor dem Asr-Gebet: Zwei und Zwei wäre besser, aber alle Vier zusammen wäre auch möglich.
+
+### 2. Sunan ar-Rawātib von Salāt al-Jumu’ah
+
+Die Sunnah-Gebete vor und nach dem Jumu’ah-Gebet entsprechen genau den Sunnah-Gebeten vor und nach dem Dhuhr-Gebet:
+
+- zwei stark empfohlene Gebetseinheiten davor
+- zwei stark empfohlene Gebetseinheiten danach
+- zwei zusätzlich empfohlene Gebetseinheiten davor
+- zwei zusätzlich empfohlene Gebetseinheiten danach
+
+Imām an-Nawawī (rahimahullāh) sagt in al-Majmū‘, dass die Grundlage der **Sunnah-Gebete vor Jumu’ah** der folgende Hadith sei, zusammen mit dem Qiyās mit den Sunnah-Gebeten vor dem Dhuhr-Gebet:
+
+> Der Prophet (ﷺ) sagte sinngemäß:
+> 
+> „*Zwischen jeden zwei Gebetsrufen gibt es ein Gebet.*„
+> 
+> <cite>\[Sahīh al-Bukhārī\]</cite>
+
+al-Khatīb ash-Shirbīnī (rahimahullāh) sagt in Mughnī al-Muhtāj:  
+„Die Grundlage (**der Sunnah-Gebete nach Jumu’ah**) beruht auf dem Hadith bei Muslim:
+
+> (Der Prophet ﷺ sagte sinngemäß)
+> 
+> „Wenn jemand von euch das Jumu’ah-Gebet betet, soll er danach vier Gebetseinheiten verrichten.“
+> 
+> <cite>\[Sahīh Muslim\] </cite>
+
+Und al-Khatīb ash-Shirbīnī (rahimahullāh) nennt auch noch den folgenden Hadith als Beweis:
+
+> Ibn Mas’ūd verrichte gewöhnlich vier Gebetseinheiten vor und nach Jumu’ah.
+> 
+> <cite>\[Jāmi at-Tirmidhī\]</cite>
+
+Zur Abrundung dieses kleinen Einblicks in die Beweise der Madhhab:
+
+> Abdullāh Ibn Umar (radīAllāhu anhu) sagte sinngemäß:
+> 
+> \[Die Fortsetzung des Hadiths über die Sunnah Muakkadah Gebete, dessen Anfang bei 1a erwähnt wurde.\]
+> 
+> „Er (ﷺ) betete nie nach dem Jumu’ah-Gebet bis er (nach Hause) ging und dann betete er (ﷺ) gewöhnlich zwei Gebetseinheiten.“
+> 
+> <cite> \[Sahīh al-Bukhārī, Nr. 937\] </cite>
+
+Imām al-Bukhārī (rahimahullāh) erwähnt diesen Hadith im Kapitel von Sahīh Bukhārī über *das Beten vor und nach dem Jumu’ah-Gebet*, und Ibn al-Munīr (rahimahullāh) sagte zu dieser Tatsache: „Als wollte er damit sagen: Grundsätzlich ist das Dhuhr-Gebet gleich dem Jumu’ah-Gebet, außer es gibt einen Beweis für das Gegenteil.“ \[siehe Fath al-Bārī\]
+
+### 3. Gebetszeiten der Sunan ar-Rawātib
+
+Die Gebetszeiten unterscheiden sich selbstverständlich dementsprechend, ob es sich um ein Sunnah-Gebet handelt, welches schon vor dem Pflichtgebet oder erst nach dem Pflichtgebet verrichtet wird.
+
+Obwohl die Zeit für **Sunnah-Gebete nach dem Pflichtgebet** logischerweise erst beginnt, wenn das Pflichtgebet verrichtet wurde (und dann bis zum Ende der Gebetszeit), ist die Zeit für die **Sunnah-Gebete vor dem Pflichtgebet** die gesamte Gebetszeit und nicht nur die Zeit bis zu dem Pflichtgebet! Also nicht einfach nur bis zum Pflichtgebet.
+
+Das bedeutet, man könnte die zwei Gebetseinheiten vor dem Fajr-Gebet auch ohne Weiteres erst nach dem Fajr-Gebet verrichten und das Sunnah-Gebet würde dann noch nicht einmal als *nachgeholt*, sondern als *noch in der Zeit* gelten. Es wäre dennoch empfohlen, diese Art von Sunnah-Gebeten trotzdem bereits vor dem jeweiligen Pflichtgebet zu verrichten.
+
+### 4. Nachholen der Sunan ar-Rawātib
+
+Laut der Madhhab ist es möglich und sogar empfohlen, verpasste Sunan ar-Rawātib nachzuholen, sogar wenn diese absichtlich nicht rechtzeitig verrichtet wurden.
+
+**\[siehe Reliance of the Traveller\]**
+
+Und ALLĀH ta’ālā weiß es am besten.

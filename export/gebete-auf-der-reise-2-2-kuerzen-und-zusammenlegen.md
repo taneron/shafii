@@ -1,0 +1,156 @@
+---
+title: 'Gebete auf der Reise &#8211; (2/2) Kürzen und Zusammenlegen'
+featured: false
+date: '2021-02-13T13:03:00+01:00'
+published: true
+slug: /gebete-auf-der-reise-2-2-kuerzen-und-zusammenlegen
+author: 'Ibn Abdullah'
+excerpt: 'Wie genau funktioniert das mit dem Kürzen und dem Zusammenlegen von Gebeten auf der Reise?'
+type: post
+id: 2023
+image: /uploads/2020/01/desert-1270345_1280.jpg
+category:
+    - Gebet
+tags:
+    - asr
+    - dhuhr
+    - Gebet
+    - isha
+    - jam
+    - kürzen
+    - maghrib
+    - reise
+    - zusammenlegen
+post_format: []
+---
+Bismillāhir-rahmānir-rahīm.  
+Al-hamdu lillāhi rabbil-ālamīn.  
+Was-salātu was-salāmu alā rasūlinā muhammad,  
+wa alā ālihi wa sahbihi ajma’īn
+
+In Deinem Namen lernen wir diese Dinge und nur Dir gegenüber müssen wir uns am Ende rechtfertigen.
+
+- - - - - -
+
+Nachdem im vorausgehenden Beitrag erklärt wurde, was genau man unter einer Reise versteht, wenn man von dem Kürzen und Zusammenlegen auf einer Reise spricht, werden nun das Kürzen und das Zusammenlegen an sich behandelt.
+
+#### Inhaltsverzeichnis
+
+1. Kürzen von Gebeten
+2. Zusammenlegen von Gebeten 
+  - Jam at-Taqdīm
+  - Jam at-Ta’khīr
+3. Verpflichtend, empfohlen oder nur erlaubt
+
+- - - - - -
+
+**Vorab:** Wenn man ein Gebet kürzt oder mit einem anderen Gebet zusammenlegt, muss man deswegen nicht auch andere Gebete kürzen oder zusammenlegen. Diese Entscheidungen sind komplett unabhängig voneinander.
+
+### 1. Kürzen von Gebeten 
+
+Es wäre möglich, Pflichtgebete mit vier Gebetseinheiten stattdessen mit nur zwei Gebetseinheiten zu verrichten. Betroffen wären das Dhuhr-, das Asr- und das Isha-Gebet.
+
+Für das Kürzen eines Gebets müssen drei Bedingungen erfüllt werden:
+
+1. Es muss vollständig innerhalb der Reise gebetet werden.
+2. Das Kürzen muss zu Beginn des Gebets beabsichtigt werden.
+3. Man betet das gekürzte Gebet nicht hinter einem Imām, der sein Gebet nicht kürzt.
+4. Beim Nachholen von Pflichtgebeten: Das Verpassen des Pflichtgebets war auch als Reisender.
+
+#### 1a. Vollständig innerhalb der Reise
+
+Ein gekürztes Gebet muss von Anfang bis Ende vollständig innerhalb der Reise verrichtet werden. Deswegen müsste man ein Gebet, das man eigentlich gerade gekürzt verrichtet, dann doch mit vier Gebetseinheiten zu Ende beten, wenn man sich beispielsweise auf einem Schiff befindet, das gerade am Heimatort eingetroffen ist.
+
+#### 1b. Zu Beginn des Gebets beabsichtigen
+
+Es wäre nicht möglich, sich erst mitten im Gebet zu entscheiden, dass man das Gebet gekürzt verrichten will. Man muss diese Entscheidung schon vorher treffen und sich bereits zu Beginn des Gebets darüber im Klaren sein.
+
+#### 1c. Nicht mit einem nicht-kürzendem Imam
+
+Eine Person, die ihr Gebet gekürzt verrichtet, darf keinem Imam folgen, der sein Gebet nicht gekürzt verrichtet.
+
+Das Problem stellt nur das Kürzen dar und nicht die unterschiedlichen Gebetseinheiten. Deswegen dürfte man sein Gebet auch nicht kürzen, wenn man erst in den letzten beiden Gebetseinheiten oder sogar erst ein paar Sekunden vor dem Ende mitbeten würde. Genauso wäre das Verrichten eines gekürzten Gebets auch dann nicht möglich, wenn man mit einem Imam betet, der das Fajr-Pflichtgebet verrichtet. Also auch wenn das betroffene Gebet ohnehin aus zwei Gebetseinheiten besteht.
+
+Sollte der Imam sein Gebet kürzen, aber der Mitbeter nicht, so würde dies kein Problem darstellen. Der Mitbeter würde dann einfach die letzten beiden Gebetseinheiten ohne den Imam beten.
+
+Wenn man nicht weiß, ob ein ebenfalls reisender Imam sein Gebet gekürzt beten wird oder nicht, dann kann man zu Beginn des Gebets einfach beabsichtigen, ihm in seiner Entscheidung zu folgen: Wenn er das Gebet kürzt, kürzt man mit ihm, aber wenn er das Gebet vollständig verrichtet, betet man des Gebet vollständig mit ihm. Sollte man sich zu Beginn des Gebets nicht sicher darüber sein, ob der Imam überhaupt ein Reisender ist (und somit überhaupt kürzen kann), dann wäre eine solche abhängige Absicht jedoch nicht möglich und man müsste das Gebet so oder so vollständig verrichten.
+
+#### 1d. Nur auch als Reisender verpasste Pflichtgebete
+
+Verpasste Pflichtgebete dürfte man nur kürzen, wenn man sie sowohl auf einer Reise verpasst hat als auch (logischerweise) auf einer Reise nachholt. Es müsste sich hierbei nicht einmal um ein und die selbe Reise handeln.
+
+### 2. Zusammenlegen von Gebeten
+
+Es wäre auf einer Reise möglich,
+
+- das Dhuhr-Gebet gemeinsam mit dem Asr-Gebet in 
+  - der Asr-Gebetszeit oder
+  - der Dhuhr-Gebetszeit zu verrichten, und
+- das Maghrib-Gebet gemeinsam mit dem Isha-Gebet in 
+  - der Isha-Gebetszeit oder
+  - der Maghrib-Gebetszeit zu verrichten.
+
+Wenn man das spätere Gebet in die jeweils frühere Gebetszeit vorverlegt, spräche man von *Jam at-Taqdīm*. Wenn man das frühere Gebet in die jeweils spätere Gebetszeit aufschiebt, spräche man von *Jam at-Ta’khīr*.
+
+#### 2a. Jam at-Taqdīm
+
+<div class="wp-block-image"><figure class="aligncenter">![Gebete vorverlegen](https://i0.wp.com/shafii-madhhab.de/wp-content/uploads/2018/07/gebete-vorverlegen.png?resize=341%2C110&ssl=1)</figure></div>Die folgenden Bedingungen müssen bei Jam at-Taqdīm erfüllt werden:
+
+1. Beide Gebete müssen vollständig innerhalb der Reise verrichtet werden.
+2. Die Reihenfolge der Gebete muss eingehalten werden.
+3. Zwischen den beiden Gebeten darf <span style="text-decoration:underline;">keine längere Pause</span> liegen. 
+  - Die Pause dürfte höchstens so lange dauern, wie man z.B. für zwei kurze Gebetseinheiten oder die Gebetswaschung brauchen würde.
+4. Das anschließende Verrichten des zweiten Gebets müsste irgendwann während des ersten Gebets beabsichtigt werden.
+
+Wenn diese Bedingungen nicht erfüllt werden, dürfte man das zweite Gebet nicht gleich mitbeten, sondern dürfte es dann erst später in seiner eigenen Gebetszeit verrichten.
+
+Weil ‚Schwierigkeiten‘ oder dergleichen beim Zusammenlegen (genauso wie beim Kürzen) keine Bedingung darstellen, muss man sich auch keine Gedanken darüber machen, ob man die beiden Gebete vielleicht doch noch ohne Erschwernis (vor der Reise, während der Reise oder nach der Reise) ohne das Zusammenlegen verrichten könnte. Man muss sich wirklich nur auf einer gültigen Reise befinden.
+
+**Illustrative Beispiele**:
+
+<figure class="wp-block-image size-large">![](https://i0.wp.com/shafii-madhhab.de/wp-content/uploads/2021/02/image.png?resize=697%2C117&ssl=1)<figcaption class="wp-element-caption">Man ist nur zu Beginn der ersten Gebetszeit ein Reisender.</figcaption></figure>Obwohl man das zweite Gebet auch ohne Weiteres in seiner normalen Gebetszeit verrichten könnte, wäre es trotzdem möglich, Jam at-Taqdīm zu Beginn der ersten Gebetszeit zu vollziehen.
+
+<figure class="wp-block-image size-large">![](https://i0.wp.com/shafii-madhhab.de/wp-content/uploads/2021/02/image-1.png?resize=685%2C128&ssl=1)<figcaption class="wp-element-caption">Die Reise beginnt erst kurz vor dem Ende der ersten Gebetszeit.</figcaption></figure>Wenn am Ende der ersten Gebetszeit innerhalb der Reise genug Zeit für beide Gebete vorhanden ist, wäre Jam at-Taqdīm auch hier möglich.
+
+#### 2b. Jam at-Ta’khīr
+
+<div class="wp-block-image"><figure class="aligncenter size-large">![](https://i0.wp.com/shafii-madhhab.de/wp-content/uploads/2020/01/gebete-hinausschieben.png?resize=341%2C110&ssl=1)</figure></div>Die folgenden Bedingungen müssen bei Jam at-Ta’khīr erfüllt werden:
+
+1. Das aufgeschobene Gebet muss vollständig innerhalb der Reise verrichtet werden.
+2. Man muss innerhalb der ersten Gebetszeit als Reisender beabsichtigen, das erste Gebet auf die nächste Gebetszeit aufzuschieben; spätestens wenn man nur noch eine einzige Gebetseinheit innerhalb der ersten Gebetszeit beten könnte.
+
+Die Reihenfolge einzuhalten und keine große Pause zwischen den Gebeten einzulegen stellen hier im Gegensatz zu Jam at-Taqdīm keine Bedingungen dar, sondern wären hier lediglich empfohlen.
+
+Das Jumu’ah-Gebet kann außerdem nie außerhalb seiner Gebetszeit verrichtet werden. Das heißt, man könnte beim Jumu’ah- und Asr-Gebet nie Jam at-Ta’khīr vollziehen, sondern lediglich Jam at-Taqdīm.
+
+**Illustrative Beispiele**:
+
+<figure class="wp-block-image size-large">![](https://i0.wp.com/shafii-madhhab.de/wp-content/uploads/2021/02/image-2.png?resize=697%2C140&ssl=1)<figcaption class="wp-element-caption">Die Reise beginnt erst kurz vor dem Ende der ersten Gebetszeit.</figcaption></figure>Obwohl man das erste Gebet auch ohne Weiteres in seiner normalen Gebetszeit verrichten könnte, wäre es hier dennoch möglich, es erst später in der zweiten Gebetszeit zu verrichten.
+
+<figure class="wp-block-image size-large">![](https://i0.wp.com/shafii-madhhab.de/wp-content/uploads/2021/02/image-3.png?resize=697%2C134&ssl=1)<figcaption class="wp-element-caption">Die Reise dauert nur bis kurz nach dem Anfang der zweiten Gebetszeit.</figcaption></figure>In diesem Fall könnte man das erste Gebet in die zweite Gebetszeit aufschieben, auch wenn man es in der zweiten Gebetszeit dann später als Nicht-Reisender verrichtet. Weil man das Gebet für Jam at-Ta’khīr rein theoretisch jedoch innerhalb der Reise verrichten müsste, würde es sich eigentlich nicht mehr um Jam at-Ta’khīr handeln, sondern um etwas, was die Gelehrten als „erlaubtes Verpassen des Gebets“ bezeichnen.
+
+Das Verpassen des Gebets kommt hier zustande, weil man gültig innerhalb der ersten Gebetszeit die Absicht hatte, es in die nächste Gebetszeit aufzuschieben. Wenn man dann das Gebet in der zweiten Gebetszeit erst nach der Reise verrichtet, ändert das nichts daran, dass es mit einem gültigen Grund in die zweite Gebetszeit aufgeschoben wurde. Rein theoretisch handelt es sich dann aber nicht mehr um ein Zusammenlegen.
+
+\[Dieser Unterschied ist eigentlich nur technischer Natur. Rein oberflächlich betrachtet, könnte man die Bedingung „*Das aufgeschobene Gebet muss vollständig innerhalb der Reise verrichtet werden*“ also in „*Die Reise muss mindestens bis zur zweiten Gebetszeit andauern*“ umformulieren.\]
+
+### 3. Verpflichtend, empfohlen oder nur erlaubt
+
+Laut der Madhhab gilt allgemein, dass Erleichterungen zwar absolut in Ordnung sind, aber es dennoch besser wäre, sie nicht zu beanspruchen. Das heißt, dass es somit besser wäre, seine Gebete nicht zu kürzen und auch nicht zusammenzulegen.
+
+\[Hinweis: Scheinbar gibt es noch ein paar Details hinsichtlich der Empfehlung seine Gebete zu kürzen, die ich hier noch nicht berücksichtigt habe. Bis ich die Zeit dafür finde, lasse ich die den unteren Abschnitt durchgestrichen.\]
+
+<s>Externe Faktoren können eine Erleichterung jedoch zur besseren Option machen, wie wenn eine Person sich beispielsweise davor fürchtet, ihre Gebete zusammenzulegen, weil ihr das Ganze mit dem Zusammenlegen noch fremd erscheint. In diesem Fall würde man nämlich nicht nur die Erleichterung beanspruchen, sondern auch sein Herz mehr in Einklang mit den Geboten und Verboten des Islams bringen. </s>
+
+<s>Ein weiteres Beispiel dafür, wie eine Erleichterung zur besseren Optionen werden könnte, wäre das Vermeiden von Meinungsverschiedenheiten. Weil das Kürzen der Gebete laut dem Hanafi Madhhab eine Pflicht darstellt, wäre es daher für den Befolger des Shafi’i Madhhabs empfohlen, seine Gebete zu kürzen, wenn er rein theoretisch als Befolger des Hanafi Madhhabs keine andere Wahl hätte. </s>
+
+**\[siehe The Accessible Conspectus, Reliance of the Traveller, Tuhfat al-Muhtāj, Taqrīr**ā**t as-Sadīdah\]**
+
+**Weitere Quellen als Links:**
+
+- [Shaykh Amjad Rasheed über Möglichkeiten des Zusammenlegens](https://islamqa.org/shafii/qibla-shafii/33646)
+- [Shaykh Omar Qureshi über das Kürzen im Gemeinschaftsgebet](https://islamqa.org/shafii/seekersguidance-shafii/31544)
+- Shaykh Abdurragmaan Khan über den grundlegenden Fiqh der Reise 
+  - [Link 1](https://seekersguidance.org/answers/shafii-fiqh/what-are-the-rules-of-travel-according-to-the-shafii-school/)
+  - [Link 2](https://seekersguidance.org/answers/shafii-fiqh/traveler-allowed-shorten-hi-prayers-shafii/)
+
+Und ALLĀH ta’ālā weiß es am besten.

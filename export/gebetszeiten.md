@@ -1,0 +1,219 @@
+---
+title: Gebetszeiten
+featured: false
+date: '2020-03-17T16:42:00+01:00'
+published: true
+slug: /gebetszeiten
+author: 'Ibn Abdullah'
+excerpt: 'Die Grundlage dieses Beitrags ist eine ausführliche Abbildung der Gebetszeiten, die an bestimmten Stellen kommentiert wurde. Die verbotenen Gebetszeiten wurden genauso behandelt.'
+type: post
+id: 156
+image: /uploads/2020/03/joe-green-dkfvE3tmcbg-unsplash.jpg
+category:
+    - Gebet
+tags:
+    - abendröte
+    - asr
+    - dhuhr
+    - drittel
+    - duha
+    - fajr
+    - freitag
+    - Gebet
+    - gebetszeiten
+    - isha
+    - maghrib
+    - makkah
+    - mitternacht
+    - pflichtgebet
+    - schatten
+    - sonnenaufgang
+    - sonnenuntergang
+    - 'tahiyyat al-masjid'
+    - 'verbotene zeiten'
+    - zeit
+    - zenit
+post_format: []
+---
+Bismillāhir-rahmānir-rahīm.  
+Al-hamdu lillāhi rabbil-ālamīn.  
+Was-salātu was-salāmu alā rasūlinā muhammad,  
+wa alā ālihi wa sahbihi ajma’īn
+
+In Deinem Namen lernen wir diese Dinge und nur Dir gegenüber müssen wir uns am Ende rechtfertigen.
+
+- - - - - -
+
+Die Grundlage dieses Beitrags wird die folgende Abbildung sein, die an bestimmten Stellen kommentiert wurde.
+
+<figure class="wp-block-image size-large">![](https://i0.wp.com/shafii-madhhab.de/wp-content/uploads/2020/03/Gebetszeiten-2.png?fit=697%2C1008&ssl=1)</figure>#### Inhaltsverzeichnis:
+
+1. Gebetszeiten der Pflichtgebete
+  - Allgemein bester Zeitabschnitt
+  
+  
+  - Asr-Pflichtgebet im letzten Zeitabschnitt
+  - Imām ash-Shāfi’ī über das Ende der Maghrib-Gebetszeit
+  - Gängige Gebetszeiten bezüglich dem Ende von Maghrib bzw. dem Anfang von Ishā
+  - Wann die Ishā-Gebetszeit endet
+2. Verbotene Zeiten
+  - Welche es gibt
+  - Welche Gebete betroffen sind
+
+### 1. Gebetszeiten der Pflichtgebete
+
+#### 1a. Allgemein bester Zeitabschnitt
+
+> Der Gesandte ALLĀHs (ﷺ) wurde nach den Taten gefragt, die ALLĀH ta’ālā am liebsten sind, und er (ﷺ) antwortete:
+> 
+> … *الصَّلاَةُ عَلَى وَقْتِهَا*
+> 
+> (sinngemäß) „*Das Gebet zu seiner Zeit. \[…\]*„
+> 
+> <cite>\[Sahīh al-Bukhārī\]</cite>
+
+Diese Aussage bezieht sich laut den Shāfi’īten auf den Beginn der Gebetszeiten.
+
+Der Beginn einer Gebetszeit wird für alle fünf Pflichtgebete als der grundsätzlich beste Zeitabschnitt angesehen. Obwohl dieser in der Abbildung nicht bei jeder Gebetszeit gesondert dargestellt wurde, kann man sich ihn einfach dazu denken.
+
+Das alles jedoch unter der Annahme, dass man sich auch darüber sicher ist, dass die jeweilige Gebetszeit auch wirklich eingetroffen ist.
+
+Gemeint ist nicht, dass man für diesen besonderen Lohn sofort nach dem Eintreten der Gebetszeit für das Pflichtgebet bereit sein muss. Wenn man zu Beginn der Gebetszeit beispielsweise zuvor den Wudū verrichtet, kurz redet, den Adhān und die Iqāmah ausruft, sich anzieht und das Sunnah-Gebet verrichtet bevor man dann das Pflichtgebet verrichtet, würde man deswegen nicht den besonderen Lohn des Beginnes verpassen.
+
+#### 1b. Asr-Pflichtgebet im letzten Zeitabschnitt
+
+> Der Gesandte ALLĀHs (ﷺ) sagte:
+> 
+> *تِلْكَ صَلاَةُ الْمُنَافِقِ يَجْلِسُ يَرْقُبُ الشَّمْسَ حَتَّى إِذَا كَانَتْ بَيْنَ قَرْنَىِ الشَّيْطَانِ قَامَ فَنَقَرَهَا أَرْبَعًا لاَ يَذْكُرُ اللَّهَ فِيهَا إِلاَّ قَلِيلاً*
+> 
+> (sinngemäß) „*Dies ist das Gebet des Heuchlers: Er sitzt und beobachtet die Sonne und wenn sie zwischen den Hörnern des Teufels ist, steht er auf und schlägt viermal auf den Boden, während er darin kaum ALLAHs gedenkt.*„
+> 
+> <cite>\[Sahih Muslim\] </cite>
+
+Das Asr-Pflichtgebet im letzten Abschnitt seiner Gebetszeit zu verrichten, wäre nicht verboten, sondern lediglich makrūh. Es wäre daher möglich, es erst zehn Minuten vor der Maghrib-Gebetszeit zu verrichten, obwohl das ziemlich unschön wäre.
+
+#### 1c. Imām ash-Shāfi’ī über das Ende der Maghrib-Gebetszeit
+
+Laut Imām ash-Shāfi’ī (radīAllāhu anhu) dauert die Maghrib-Gebetszeit so lange, wie man für das Pflichtgebet, die Sunnah-Gebete und alles damit Verbundene (Toilette, Wudu, Anziehen, Hunger stillen, Adhān, …) benötigen würde. Die späteren Shāfi’īten widersprachen jedoch und sagten, dass Maghrib stattdessen bis zum Verschwinden der Abendröte andauere, was auch die alte Meinung des Imams war.
+
+> Der Gesandte ALLĀHs (ﷺ) sagte:
+> 
+> … *وَقْتُ الْمَغْرِبِ مَا لَمْ يَسْقُطْ ثَوْرُ الشَّفَقِ* …
+> 
+> (sinngemäß) „*\[…\] die Zeit von Maghrib (besteht) solange nicht die Abenddämmerung vergeht*, \[…\]“
+> 
+> <cite>\[Sahīh Muslim\]</cite>
+
+#### 1d. Gängige Gebetszeiten bezüglich dem Ende von Maghrib bzw. dem Anfang von Ishā
+
+Man sollte wissen, dass viele berechnete Gebetszeiten nicht auf der Meinung basieren, dass der Übergang von der Maghrib-Gebetszeit zur Ishā-Gebetszeit mit dem Verschwinden der Abendröte stattfindet. Man sollte sich dessen bewusst sein, wenn man der hier beschriebenen Meinung folgen will.
+
+In Gebieten, in denen der Hanafi Madhhab verbreitet ist, wird oft die Meinung befolgt, dass Ishā erst ein wenig später bei vollständiger Dunkelheit beginnt. Scheinbar befolgen einige Moscheen auch eine Ansicht, die besagt, dass Ishā erst nach genau 90 Minuten nach Maghrib beginnen soll.
+
+Wenn ich mich nicht irre, basieren die Angaben von Diyanet (mit 80 Minuten) auf der Meinung mit dem Verschwinden des weißen Lichtes und die Angaben der IGMG (mit 70 Minuten) auf der Meinung mit dem Verschwinden der Abendröte.
+
+Weil eigene Sichtungen eher unverlässlich sind, wegen der sogenannten Lichtverschmutzung und weil eine gewisse Erfahrung nötig ist, wäre es ratsam, einfach die vorhandenen Berechnungen auf eine vorsichtige Art anzuwenden. Ich persönlich ziehe es beispielsweise vor, Maghrib keine 50 Minuten hinauszuzögern.
+
+\[Eine vorsichtige Handhabung berechneter Gebetszeiten wäre wohl allgemein sehr ratsam. Seine Gebete nämlich sekundengenau nach diesen auszurichten, wäre meiner Ansicht nach riskant, wAllāhu a’lam.\]
+
+#### 1e. Wann die Ishā-Gebetszeit endet
+
+> Der Gesandte ALLĀHs (ﷺ) sagte:
+> 
+> … *وَقْتُ الْعِشَاءِ إِلَى نِصْفِ اللَّيْلِ* …
+> 
+> (sinngemäß) „*\[…\] die Zeit von Ishā geht bis zur Hälfte der Nacht*, \[…\]“
+> 
+> <cite>\[Sahīh Muslim\]</cite>
+
+Mit diesem Hadith wird für gewöhnlich argumentiert, dass die Ishā-Gebetszeit nicht bis zur Fajr-Gebetszeit andauern kann. Die Gelehrten der Madhhab verstehen diesen Hadith jedoch so, dass es hier nicht um das absolute Ende der Gebetszeit, sondern um das Ende seines empfohlenen Zeitabschnittes geht. Weil es zusätzlich noch Ahādīth gibt, die stattdessen von einem Drittel der Nacht handeln, bevorzugte man diese anscheinend aus Vorsicht.
+
+> Auf der Reise verschliefen die Muslime allesamt das Fajr-Gebet und holten es später nach seiner Gebetszeit gemeinsam mit dem Gesandten ALLĀHs (ﷺ) nach. Einige waren beunruhigt darüber, wie sie diese Schuld nun begleichen könnten. Der Gesandte ALLĀHs (ﷺ) sagte daraufhin:
+> 
+> *‏“ ‏أَمَا لَكُمْ فِيَّ أُسْوَةٌ „‏ ‏.‏ ثُمَّ قَالَ ‏“ ‏أَمَا إِنَّهُ لَيْسَ فِي النَّوْمِ تَفْرِيطٌ إِنَّمَا التَّفْرِيطُ عَلَى مَنْ لَمْ يُصَلِّ الصَّلاَةَ حَتَّى يَجِيءَ وَقْتُ الصَّلاَةِ الأُخْرَى …“‏*
+> 
+> (sinngemäß) „*Bin ich für euch denn kein Vorbild?* *Es gibt keine Nachlässigkeit im Schlaf! Nachlässigkeit wäre es bei jemandem, der sein Gebet nicht betet bis die Zeit des anderen Gebets eintritt*. \[…\]“
+> 
+> <cite>\[Sahīh Muslim\]</cite>
+
+Dieser Beweis wird in diesem Zusammenhang oft erwähnt. Die Fajr-Gebetszeit stellt natürlich eine offensichtliche Ausnahme dar.
+
+Ohne Zweifel wäre es dennoch besser, sein Gebet innerhalb des ersten Drittels der Nacht zu beten, um aufgrund der starken Meinungsverschiedenheit auf der sichereren Seite zu sein.
+
+\[Die Shāfi’īten reden zusätzlich noch von einem Makrūh-Zeitabschnitt von Isha kurz vor der Fajr-Gebetszeit, der von der *trügerischen* Morgendämmerung bis zur *richtigen* Morgendämmerung andauert. Dieses Thema separat zu behandeln, erschien mir nicht wichtig genug.\]
+
+### 2. Verbotene Gebetszeiten
+
+#### 2a. Welche es gibt
+
+Es gibt auch noch fünf Gebetszeiten bei denen bestimmte Gebete nicht nur verboten, sondern auch noch ungültig wären:
+
+1. Nachdem man das Fajr-Pflichtgebet gebetet hat bis der Sonnenaufgang beginnt; also das Ende der Fajr-Gebetszeit.
+2. Vom Beginn des Sonnenaufganges bis die Sonne eine Höhe über dem Horizont steht, die einer Speerlänge bzw. ihrem eigenen Durchmesser entspricht.
+3. Während die Sonne an ihrem höchsten Punkt steht bis sie diesen Punkt wieder verlässt.
+4. Nachdem man das Asr-Pflichtgebet gebetet hat bis die Sonne gelb wird.
+5. Wenn die Sonne gelb wird bis zum Ende des Sonnenunterganges; also das Ende der Asr-Gebetszeit.
+
+Die Zeiten 1 und 4 wurden bewusst separat erwähnt und nicht einfach mit jeweils 2 und 5 zusammengefasst, obwohl das auf den ersten Blick vielleicht logischer erscheinen würde. Wenn man beispielsweise das Asr-Pflichtgebet zehn Minuten vor der Maghrib-Gebetszeit verrichtet, heißt das nämlich nicht, dass die verbotene Gebetszeit deswegen erst zehn Minuten vor der Maghrib-Gebetszeit beginnt. Würde man die Zeiten 4 und 5 zusammenfassen, wäre das aber die logische Konsequenz. In dem genannten Beispiel hätte man die vierte verbotene Zeit einfach übergangen.
+
+Würde man das Asr-Pflichtgebet auf einer Reise in die Dhuhr-Gebetszeit vorverlegen, dann würde die entsprechende verbotene Gebetszeit (Nummer 4) sogar schon ab dann inkrafttreten.
+
+**Ausnahmen der verbotenen Zeiten**:
+
+1. Während die Sonne an ihrem höchsten Punkt steht (Punkt 3), gibt es am Freitag keine verbotene Gebetszeit.
+2. Für Gebete, die im Haram von Makkah verrichtet werden, gelten diese fünf verbotenen Gebetszeiten gar nicht. Es ist hier nicht nur von der Moschee (Masjid al-Haram) die Rede! Der Haram von Makkah ist nämlich sogar größer als die Stadt selbst.
+
+#### 2b. Welche Gebete betroffen sind
+
+Diese fünf verbotenen Gebetszeiten beziehen sich laut der Madhhab nur auf bestimmte Gebete.
+
+> Der Gesandte ALLĀHs (ﷺ) sagte:
+> 
+> *مَنْ نَسِيَ صَلاَةً أَوْ نَامَ عَنْهَا فَكَفَّارَتُهَا أَنْ يُصَلِّيَهَا إِذَا ذَكَرَهَا*
+> 
+> (sinngemäß) „*Wer ein Gebet vergisst oder es verschläft, so wäre sein Ausgleich, es zu beten, wenn man sich an es erinnert.*„
+> 
+> <cite>\[Sahīh Muslim\]</cite>
+
+> Der Gesandte ALLĀHs (ﷺ) betete das Sunnah-Gebet, das nach dem Dhuhr-Pflichtgebet kommt, erst später nachdem er bereits das Asr-Pflichtgebet gebetet hatte, weil er zuvor beschäftigt war.
+> 
+> <cite>\[Sahīh Muslim\]</cite>
+
+> Nachdem der Gesandte ALLĀHs (ﷺ) das Fajr-Pflichtgebet in der Gemeinschaft gebetet hatte, sah er zwei Männer, die nicht mitgebetet hatten, weil sie das Gebet zuvor bereits in ihrem Lager verrichtet hatten. Der Gesandte ALLĀHs (ﷺ) sagte daraufhin:
+> 
+> *إِذَا صَلَّيْتُمَا فِي رِحَالِكُمَا ثُمَّ أَتَيْتُمَا مَسْجِدَ جَمَاعَةٍ فَصَلِّيَا مَعَهُمْ فَإِنَّهَا لَكُمَا نَافِلَةٌ*
+> 
+> (sinngemäß) „*Wenn ihr in eurem Lager gebetet habt und ihr dann zu einer Moschee mit einem Gemeinschaftsgebet kommt, dann betet mit ihnen. Denn das wäre für euch ein freiwilliges (Gebet).*„
+> 
+> <cite>\[at-Tirmidhi\] </cite>
+
+Die Shāfi’īten leiteten von solchen Ereignissen scheinbar ab, dass die verbotenen Gebetszeiten nicht für Gebete gelten, bei denen es sich gewissermaßen von selbst so ergibt, dass sie in diesen Zeiten stattfinden. Das wird im Nachfolgenden nun genauer erläutert.
+
+Die Gebete, die zu diesen Gebetszeiten verboten wären, werden von den Shāfi’īten gemäß einer etwas technischen Definition beschrieben, bei der diese in zwei Kategorien aufgeteilt werden:
+
+1. Gebete ohne richtigen Grund (*Nafl Mutlaq*)
+2. Besondere Gebete, deren Ursache erst nach dem Gebet kommt
+
+– **Gebete ohne richtigen Grund**
+
+Damit sind Gebete gemeint, die man sozusagen ‚*einfach so*‚ verrichtet.
+
+Ein freiwilliges Gebet, das man verrichtet, weil man zum Beispiel einfach so eine neu gelernte Sūrah im Gebet rezitieren will, wäre in diesen Gebetszeiten aber dennoch verboten. Obwohl es sich dann eigentlich um kein grundloses Gebet handeln würde, würde kein speziell im Islam festgelegter Grund vorliegen.
+
+**– Besondere Gebete, deren Grund erst <span style="text-decoration: underline;">nach dem Gebet</span> kommt**
+
+Es wird anhand einiger Beispiele geschildert, was damit gemeint ist:
+
+- **Moschee-Begrüßungsgebet**: Der Grund wäre das vorausgehende Betreten einer Moschee –&gt; Erlaubt
+- **Sunnah-Gebet vor dem Pilgern**: Der Grund wäre der darauf folgende Pilger-Status (Ihrām) –&gt; Verboten
+- **Pflichtgebet nachholen**: Der Grund wäre das vorausgehende Eintreffen der Gebetszeit des verpassten Pflichtgebets –&gt; Erlaubt
+- **Istikhārah-Gebet**: Der Grund wäre das darauf folgende Istikhārah-Bittgebet –&gt; Verboten
+- **Sonnen- bzw. Mondfinsternisgebet:** Der Grund wäre die gleichzeitig stattfindende Finsternis –&gt; Erlaubt
+
+Das Beerdigungsgebet, das Sunnah-Gebet nach dem Wudū, das Sunnah-Gebet nach dem Tawāf, die Dankbarkeitsniederwerfung (Sujūd ash-Shukr) und die Rezitationsniederwerfung (Sujūd at-Tilāwah) wären auch alle erlaubt. Wieso das der Fall ist, sollte nun klar sein.
+
+Würde man zum Beispiel eine Moschee während einer verbotenen Gebetszeit betreten, **nur** um das Moschee-Begrüßungsgebet beten zu können, dann wäre das Gebet jedoch verboten. Selbstverständlich auch, wenn man nach dem Betreten einer Moschee mit voller Absicht das Beginnen einer verbotenen Gebetszeit abwarten würde bevor man das Gebet verrichtet.
+
+**\[siehe Reliance of the Traveller, Fiqh al-Ibādāt, Mughnī al-Muhtāj\]**
+
+Und ALLĀH ta’ālā weiß es am besten.
