@@ -27,7 +27,14 @@ const next = pageNum < totalPages ? "" : "disabled";
     <ul>
       {
         posts.map(({ data }) => (
-          <Card href={`/posts/${slugify(data)}`} frontmatter={data} />
+          <Card
+            href={
+              // @ts-ignore
+              `/${data.slug || data.postslug || slugify(data)}`
+            }
+            frontmatter={data}
+          />
+          // <Card href={`/posts/${slugify(data)}`} frontmatter={data} />
         ))
       }
     </ul>
