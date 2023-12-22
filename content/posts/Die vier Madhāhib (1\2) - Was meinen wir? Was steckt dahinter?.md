@@ -1,0 +1,83 @@
+---
+postslug: "die-vier-madhahib-2-2-was-steckt-dahinter"
+posted: 2018-11-22T19:20:14Z
+published: false
+title: "Die vier Madhāhib (1/2) - Was meinen wir? Was steckt dahinter?"
+categories: ["Ijtihad &amp; Taqlid"]
+tags: []
+excerpt: "Im Internet trifft man auf einige Beiträge zum Thema \"Madhhab\". Primär wird einem dann vermittelt..."
+---
+
+Im Internet trifft man auf einige Beiträge zum Thema "Madhhab". Primär wird einem dann vermittelt, dass die vier Madhāhib praktisch gesehen nur eine Ansammlung von schwachen bzw. ungültigen Meinungen seien, die wir durch "das Befolgen von nur Qur'ān und Sunnah" einfach ersetzen sollten. Man hört beispielsweise folgende Aussagen:
+
+* Wieso sollte man sie befolgen? Die vier Imāme waren nicht perfekt!
+* Die vier Imāme haben doch selber gesagt, dass man ihre Meinungen verwerfen soll, wenn diese den Beweisen widersprechen! Genau das tun wir ja!
+* Wir nehmen nur ausnahmslos vom Propheten (ﷺ)!
+* ALLĀH ta'ālā hat nicht das gesamte Wissen dieser Ummah in einer Einzelperson vereinigt (bis auf den Propheten sallAllāhu alayhi wa sallam selbstverständlich)!
+* Es gab früher auch andere Madhāhib also wieso nur diese vier?
+* Keiner dieser Imāme hat dazu aufgerufen, ausnahmslos nur ihm alleine zu folgen!
+
+Ohne diesen Geschwistern eine schlechte Absicht zuzuschreiben, muss folgendes dennoch gesagt werden: Sie haben nicht verstanden, was unsere Gelehrten über 1000 Jahren in diesen vier Madhāhib wirklich sahen.
+
+In dieser Reihe wird nun versucht, die Themen rund um die Madhāhib  genauer zu erläutern. Dann sollte auch klar werden, wieso die zuvor genannten Beispielaussagen schlicht ungültig und irreführend sind.
+
+## Was meinen wir mit "Madhhab"?
+
+Wortwörtlich übersetzt, könnte man das Wort Madhhab als "wie jemand geht" übersetzen. Also bezogen auf den Islam: "Was jemand mit seinen Fiqh-Fragestellungen macht bzw. wie er bei diesen vorGEHT, von wo er sie bekommt."
+
+Nun stellt sich die Frage, wie genau eine Madhhab diese Aufgabe erfüllt. Das Wichtigste ist, dass jedem Muslim zunächst folgendes klar wird:
+
+**Eine Madhhab ist nicht nur die Ansammlung der Meinungen bzw. Positionen ihres ursprünglichen Imāms! **
+
+Wenn man beispielsweise von dem Shāfi'ī-Madhhab spricht, dann meint man damit **nicht** "ausnahmslos nur die Meinungen von Imām ash-Shāfi'ī (radīAllāhu anhu)". Dieses Verständnis ist schlicht und einfach **falsch**.
+
+Der Shāfi'ī-Madhhab basiert zwar hauptsächlich auf den Meinungen von Imām ash-Shāfi'ī (radīAllāhu anhu), aber es gibt mehr als nur ein Beispiel für Meinungen, die Imām ash-Shāfi'ī zwar selbst vertrat, seine Madhhab jedoch später nicht mehr, weil sie diese jeweiligen Meinungen als nicht stark genug feststellten! [[Hier](https://shafiimadhhab.wordpress.com/2018/10/13/qawl-qadim-und-qawl-jadid/) gibt es ein paar Beispiele.]
+
+Folglich erübrigen sich auch die Fragen, ob Imām ash-Shāfi'ī perfekt war, ob er jeden Hadith kannte oder ob er allgemein das gesamte Wissen über den Islam hatte. Die Antwort: Er war nicht perfekt und hatte auch nicht absolutes Wissen, aber das spielt keine Rolle, weil seine bereits sehr professionellen Meinungen von späteren Gelehrten mehrfach kontrolliert und bei Bedarf durch stärkere ersetzt wurden.
+
+Man stellte sich als ein späterer Gelehrter einer Madhhab wiederholt Fragen wie: "Kannte mein Imām diesen Hadith? Hat er womöglichen diesen und jenen Überlieferer falsch eingeschätzt? Hat er sich womöglich bei der Anwendung seiner eigenen Methoden vertan? Ist ihm diese und jene Interpretationsmöglichkeit womöglich nicht in den Sinn gekommen?" Selbstverständlich wurden diese Fragen von Personen gestellt, die die Lehren ihres Imams **außerordentlich gut** kannten.
+
+Der Madhhab heißt nur **Shāfi'ī**-Madhhab, weil**die Methoden **mit denen der Imām Fiqh-Fragestellung anging das Herzstück der Madhhab darstellen - sein **Usūl al-Fiqh**.
+
+Beispiele für Fragestellungen, die in **Usūl al-Fiqh** behandelt werden:
+
+* Welche Arten von Qiyās akzeptieren wir?
+* Welche Arten von Überlieferungsketten akzeptieren wir?
+* Wann kann ein Hadīth eine Ayah des Qur'āns abrogieren?
+* Wie genau gehen wir bei Widersprüchen vor, wenn Text 1 vom Typ ABC und Text 2 vom Typ XYZ ist?
+
+Bei dieser kurzen Erklärungen muss es dann auch belassen werden, damit nicht zu stark vom Thema abgeschweift wird. Wer mehr zum Thema Usūl al-Fiqh erfahren will, kann sich beispielsweise die englische Ausgabe des Werks Sharh al-Waraqāt ansehen, welches die Grundlagen von Usūl al-Fiqh gemäß der Shāfi'iyyah vermittelt. [Weil Usūl al-Fiqh ziemlich anspruchsvoll sein kann, empfiehlt es sich jedoch, die Lehre mit einem Lehrer zu lernen.]
+
+**Shāfi'ī-Fiqh** ist also schlussendlich der Fiqh von Imām ash-Shāfi'ī, Imām al-Muzani, Imam al-Ghazali, Imam al-Juwayni, Imam ar-Rafi'i, Imam an-Nawawi, Imam Ibn Hajar al-Haytami, Shaykh al-Islam Zakariyyah al-Ansari und noch vielen anderen Gelehrten **zusammen**(rahmatullāh alayhum).
+
+Wenn wir also einen Hadith vorfinden, der nach außen hin der Meinung des Shāfi'ī-Madhhab's widerspricht, reicht es nicht zu sagen "Imām ash-Shāfi'ī kannte den Hadith nicht", sondern man müsste dann etwas Unsinniges wie **"alle diese x Gelehrten kannten den Hadith nicht**" sagen. Umso eigenartiger, wenn der Hadith dann auch noch leicht in Bukhārī oder Muslim zu finden gewesen wäre. Und nochmal eigenartiger, wenn man das nicht nur über einen einzigen Hadith sagt, sondern über unzählige andere Hadithe, oder über Qur'ān-Verse...
+
+[Alles was bis zu diesem Punkt über den Shāfi'ī-Madhhab gesagt wurde, gilt auch analog für die anderen Madhāhib.]
+
+## Wieso Madhāhib auf Grundlage der Lehren dieser Imāme?
+
+Wir haben nun folgende Definition des Wortes "Madhhab":
+
+"Eine Ansammlung von Meinungen, die ursprünglich mittels der Methoden eines großen Imams aus den Quelltexten abgeleitet wurden, und später von Gelehrten, welche diese Methoden dann auch verwendeten, weiterentwickelt wurden."
+
+Wieso haben späteren Gelehrten, wie Imām an-Nawawī (rahimhullāh), welcher einer der größten Gelehrten des Shafi'i-Madhhab war, wenn nicht sogar der größte nach Imām ash-Shāfi'ī (radīAllāhu anhu), nicht einfach ihre eigenen Methoden aufgestellt und ihre eigene Madhhab gegründet? Wieso haben das so viele andere Gelehrte, auch aus den anderen drei Madhahib, nicht getan?
+
+Der einfache Grund ist: Wenn man die Grundbausteine von einem der größten Gelehrten der Ummah hat, welcher nur wenige Generationen von den Sahābah (radīAllāhu anhum) und dem Propheten (ﷺ) entfernt war, dann soll man nicht denken, dass man das selbe Ergebnis ohne Weiteres auch selbst erreichen kann. Man arbeitet stattdessen einfach mit x anderen Gelehrten zusammen an einem solchen bereits angefangenen Großprojekt weiter!
+
+Der Vorzug der Salaf as-Sālih, zu denen alle vier Imāme auch gehören, ist sowieso bekannt:
+
+> Der Prophet (ﷺ) sagte sinngemäß:
+> 
+> "Die besten Leute sind diejenigen meiner Generation, dann diejenigen, welche nach ihnen kommen, dann diejenigen, welche nach diesen kommen.[...]"
+> 
+> <cite>[Sahih al-Bukhārī, Nr. 6065, Sahih Muslim, Nr. 2533]</cite>
+
+Der Fiqh der vier Imāme, welche allesamt von den Salaf as-Sālih waren, bietet daher eine ausgezeichnete Grundlage für spätere Generationen. Sie haben für ihr Wissen nämlich mehrere Überlieferungsketten direkt zum Propheten (ﷺ). Wer den Fiqh dieser Imāme verwirft und das "Rad neu erfinden will", sollte sich also fragen, was er da eigentlich tut.
+
+Welcher Gelehrte von den Khalaf (also den Generationen nach den Salaf) hat jemals von sich behauptet, er könne diesen Imāmen das Wasser reichen?
+
+### Schlusswort
+
+Dieser Beitrag sollte die absoluten Grundlagen nun ausreichend behandelt haben, und einige der Vorwürfe derjenigen, welche die vier Madhāhib kleinreden, auch einigermaßen entkräftet haben inshāAllāh.
+
+[Im nächsten Beitrag](https://shafiimadhhab.wordpress.com/2018/11/25/die-vier-madhahib-2-2-wie-kam-es-zu-diesen-vier/) geht es inshāAllāh mit der Frage "Wie genau kamen diese Madhāhib zustande und gab es auch andere?" weiter.

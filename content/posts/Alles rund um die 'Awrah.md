@@ -1,0 +1,49 @@
+---
+postslug: ""
+posted: 0000-00-00T00:00:00Z
+published: false
+title: "Alles rund um die 'Awrah"
+categories: ["Allgemein"]
+tags: []
+excerpt: "al-hamdu lillāhi rabbil-ālamīn,was-salātu was-salāmu alā rasūlinā muhammadin wa alā ālihi wa sahbih..."
+---
+
+### Bismillāhir-rahmānir-rahīm,
+al-hamdu lillāhi rabbil-ālamīn,
+was-salātu was-salāmu alā rasūlinā muhammadin wa alā ālihi wa sahbihi ajma’īn
+
+In Deinem Namen lernen wir diese Dinge und nur Dir gegenüber müssen wir uns am Ende rechtfertigen.
+
+In diesem Beitrag wird versucht alle möglichen Szenarien der 'Awrah abzudecken, die es so gibt. Der Fiqh der 'Awrah kann nämlich nicht ohne Weiteres in ein paar Sätzen behandelt werden.
+
+## 'Awrah des männlichen Geschlechts
+
+Alter
+
+Gebet
+
+Ob alleine, mit Mahrams, mit Nicht-Mahrams und Fitnah-Nicht-Mahrams.
+
+----------------------------------------------------------------
+
+-----------------------------------------------------------------
+
+# Awrah von Mann
+
+Alleine: Genitalien, vorne und hinten (+ Ausnahmen)
+
+Im Gebet und in Öffentlichkeit: Zwischen Bauchnabel und Knie
+
+Mit Frau: gar keine Awrah, aber makruh, dass Genitalien ohne Grund angesehen werden
+
+# Awrah von Frau
+
+Alleine: Zwischen Bauchnabel und Knie (+ Ausnahmen)
+
+Mit Mann: siehe Mann
+
+Mit Mahram oder anderen Musliminnen: Zwischen Bauchnabel und Knie (wenn Fitnah oder Weitererzählen nicht gefürchtet werden)
+
+Mit Nicht-Musliminnen (Nicht-Mahram): alles, was bei gewöhnlicher Arbeit nicht gesehen wird, wie Gesicht, etwas vom Nacken, Unterarme und Hände, etwas vom Schienbein und Füße (wenn Fitnah oder Weitererzählen nicht gefürchtet werden)
+
+Mit Nicht-Mahram Männer oder Fitnah-Frauen (egal ob Muslim(in) oder nicht): Ganzer Körper ohne Ausnahme (aber kleiner Ikhtilaf)

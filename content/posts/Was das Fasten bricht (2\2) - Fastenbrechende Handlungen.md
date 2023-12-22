@@ -1,0 +1,171 @@
+---
+postslug: "was-das-fasten-bricht-2-2-fastenbrechende-handlungen"
+posted: 2019-05-15T12:11:12Z
+published: false
+title: "Was das Fasten bricht (2/2) - Fastenbrechende Handlungen"
+categories: ["Fasten"]
+tags: ["asthma", "brechen", "feuchter traum", "geschlechtsverkehr", "ghazali", "höhepunkt", "küssen", "masturbation", "mund", "ohren", "parfüm", "schleim", "sühneleistung", "übergeben", "umarmen", "zahnpasta"]
+excerpt: "Laut der Madhhab brechen die folgenden sechs Dinge das Fasten:Bevor die einzelnen Punkte behandelt ..."
+---
+
+Laut der Madhhab brechen die folgenden sechs Dinge das Fasten:
+
+1. Wenn eine beliebige Substanz durch eine Körperöffnung in einen der Hohlräume des Körpers eindringt.
+2. (Fast) alles, das den Ghusl notwendig macht.
+3. Absichtliches Übergeben
+4. Geistesstörung/Wahnsinn
+5. Apostasie
+
+Bevor die einzelnen Punkte behandelt werden: **Du bist dir nicht sicher, ob du etwas Fastenbrechendes getan hast? Dein Fasten ist noch gültig, solange es nur Zweifel sind.** Die Grundlage ist nämlich die Gültigkeit der Handlungen und Zweifel reichen nicht, um dieser zu widersprechen.
+
+### 1\. Substanz dringt durch eine Körperöffnung in einen Hohlraum ein
+
+Um diesen Fastenbrecher besser verstehen zu können, müssen drei Punkte getrennt betrachtet werden:
+
+1. Substanz
+2. Körperöffnung
+3. Hohlraum
+
+#### 1.1 Substanz
+
+Damit sind Dinge gemeint, welche sichtbar und greifbar sind, auch wenn sie klein sind oder eigentlich nicht zum Essen gedacht wären. Also kann ein Stein gemeint sein, die Nadel einer Spritze oder selbstverständlich auch einfach nur normale Nahrung.
+
+Mit dem Begriff _Substanz_ schließen wir alleinigen Geruch oder alleinigen Geschmack aus. Daher bräche das Riechen eines Parfüms nicht das Fasten und genauso nicht der Geschmack der von Zahnpasta noch übrig bleibt nachdem man die Substanz selbst beseitigt hat.
+
+Zigarettenrauch stellt eine Substanz dar, weil dieser im Körper sichtbare Spuren hinterlässt. Als Passivraucher wäre man zwar entschuldigt, auch wenn man die Nähe von Rauchern nicht vermeiden würde. Würde man jedoch die Nähe von Rauchern suchen, um den Rauch einatmen zu können, so wäre es nicht entschuldigt und würde das Fasten somit brechen.
+
+**Speichel**
+
+Speichel, der den Mund verlassen hat, darf nicht mehr heruntergeschluckt werden. Deswegen würde es das Fasten brechen, wenn Speichel, der auf die (äußeren) Lippen gekommen ist, zurück in den Mund gelangen würde und man diesen dann schlucken würde. (Natürlich unter der Voraussetzung, dass das nicht unbewusst geschieht.)
+
+Wenn man seine speichel-befeuchte Zunge ausstrecken würde, müsste man deswegen jedoch nicht das Schlucken des Speichels auf der Zunge vermeiden, weil es auf diese Art nicht als "den Mund verlassen" zählen würde.
+
+Wenn der Mund durch Blut oder Erbrochenes rituell verunreinigt wurde, wäre das Schlucken des Speichels so lange nicht erlaubt bis man seinen Mund mit Wasser ausgespült und somit gereinigt hat. Hierbei spielt es keine Rolle, ob der Speichel sichtbare Spuren der rituellen Verunreinigung beinhaltet, weil auch die unsichtbare rituelle Verunreinigung des Mundes (und somit auch des Speichels) hier entscheidend ist.
+
+**Wasserreste im Mund**
+
+Nachdem man seinen Mund ausgespült hat, muss man ihn deswegen nicht gleich mit einem Tuch trocknen, sondern nur die Wasserreste ordentlich sammeln und ausspucken. Verrückt muss man sich deswegen nicht machen, weil das zurückbleibende Kältegefühl im Mund es so erscheinen lassen kann, als wären größere Reste vorhanden. Leichte Wasserreste wären in dieser Hinsicht sogar entschuldigt. (#Zumindest bei Wudu und Ghusl)
+
+#### 1.2 Öffnung
+
+Die natürlichen Öffnungen und ihre jeweiligen fastenbrechenden Grenzen:
+
+1. Mund
+    * ab dem Punkt im Rachen an dem der Buchstabe **ح** entsteht.
+        [Gleich unter **خ** bzw. **غ**, aber noch über dem normalen **h**]
+2. Nase
+    * ab dem Bereich, der untermittelbar hinter dem von der Nase spürbaren Knochen liegt.
+3. Ohren
+    * ab dem Bereich, den man mit dem Finger normalerweise nicht mehr erreichen könnte.
+4. Der untere private Abschnitt
+    * Beim Gesäß ab dem Übergang zu dem Bereich, der immer noch versteckt bzw. verschlossen wäre, auch wenn sich die Person für _das Geschäft_ in die Hocke begeben würde.
+    * Bei dem männlichen Organ mehr oder weniger unmittelbar nach der Öffnung.
+    * Bei der weiblichen Öffnung gilt es auch erst ab dem beim Hocken versteckten Bereich.
+
+Diese Öffnungen werden anhand dieser Grenzen in innere und äußere Bereiche unterteilt, und erst wenn eine Substanz in den inneren Bereich gelangt, würde sie das Fasten brechen.
+[Der Vollständigkeit halber, obwohl ich es nicht als relevant genug ansah, es separat zu erwähnen: Die Nippel gelten auch als fastenrelevante Öffnungen. Mir ist jedoch keine normale Situation bekannt, in der man sein Fasten durch diese Öffnung brechen könnte.]
+
+Weitere mögliche Öffnungen wären beispielsweise offene Wunden oder kleinere Öffnungen durch Spritzen. Die Augen jedoch nicht, weil sie keine richtigen Öffnungen darstellen. Genauso nicht die Haut, welche zwar Substanzen aufsaugen kann, aber keine richtige Körperöffnung darstellt. Nikotinpflaster, Hautcremen und Augentropfen wären daher unproblematisch, auch wenn man bei z.B. Augentropfen einen Geschmack im Mund wahrnehmen könnte.
+
+Folglich brächen folgende Dinge das Fasten:
+
+* Ohrentropfen
+* Zäpfchen
+* Gynäkologische Untersuchungen
+* Einsetzen von Tampons
+* Wenn man bei der Toilettenreinigung viel zu tief reinigt.
+* Asthma Sprays
+    [Ob eine Sache eine medizinische Notwendigkeit darstellt, ändert nämlichs nichts daran, ob sie das Fasten bricht oder nicht.]
+* Noch ein Extrembeispiel, um das Prinzip noch verständlicher zu machen: Wenn man sich absichtlich ein Messer in den Bauch rammt (möge ALLĀH uns bewahren).
+
+**Schleim und Aufgestoßenes**
+
+Wenn Substanzen aus dem Körper den äußeren Bereich des Mundes oder der Nase erreichen, dann müsste man sie entfernen, wenn man dazu in der Lage ist.
+
+Wenn Schleim also den äußeren Bereich des Mundes noch nicht erreicht hat, würde das Fasten durch das Herunterschlucken also nicht ungültig werden. Sogar wenn man dazu in der Lage gewesen wäre, ihn zu entfernen. Genauso wenn sich der Schleim von den hinteren Nasenhöhlen in den hinteren Bereich des Mundes bewegt und von dort dann weiter nach unten fließt (also sich innerhalb der inneren Bereiche bewegt). Was im inneren Bereich des Körpers geschieht, ist für das Fasten nämlich irrelevant.
+
+Wenn sich der Schleim zwar in den äußeren Bereich des Mundes bewegt, aber man ihn schluckt, weil man nicht dazu in der Lage war, ihn zu entfernen, dann würde es das Fasten nicht brechen.
+
+Imam Ibn Hajar al-Haytami erwähnt, dass wenn eine fastende Person selbst den Schleim in den äußeren Bereich des Mundes zieht, dass dann ein anschließendes Schlucken auch dann das Fasten brechen würde, wenn das Schlucken nicht vermieden werden konnte. In diesem Fall wäre es also irrelevant, ob das Schlucken absichtlich war oder nicht bzw. vermeidbar war oder nicht. Einfach gesagt, wenn man den Schleim nicht anschließend mit Sicherheit ausspucken kann, dann sollte man sein Fasten auch nicht gefährden und den Schleim somit gar nicht erst absichtlich in den äußeren Bereich ziehen.
+
+Selbstverständlich gilt auch hier: Wenn man darüber zweifelt, ob das Fasten gebrochen wurde, dann geht man davon aus, dass das Fasten noch gültig ist.
+
+**Was haben die Ohren und die privaten Öffnungen mit dem Fasten zu tun?**
+
+Dass der Shāfi'ī Madhhab auch Dinge wie Ohrentropfen und Zäpfchen als Fastenbrecher ansieht, wirkt vielleicht etwas eigenartig. Diese Dinge sind nämlich nicht ansatzweise hungerstillend.
+
+Die Sache ist: Fasten heißt, sich von bestimmten Handlungen zu enthalten. Der Gelehrten des Shāfi'ī Madhhabs gehen hier also nicht nur danach, wie es im Bezug auf das Hungern aussähe, sondern gehen einfach nach dem äußeren Wortlaut der Texte und schlussfolgern somit: Generell keine Substanzen in den Körper lassen.
+
+> Ibn Abbās (radīAllāhu anhu) sagte (ungefähr übersetzt):
+> 
+> "Der Wudū ist nur von dem, das verlässt, und nicht von dem, das eintritt. Und der _Fitr _(also das Brechen des Fastens) ist nur von dem, das eintritt, und nicht von dem, das verlässt."
+> 
+> <cite>[Sunan al-Kubrā, Imām an-Nawawī sagte er sei _hasan_
+> oder _sahīh_ (siehe al-Majmū‘)]</cite>
+
+Es gäbe innerhalb des Shāfi'ī-Madhhabs jedoch eine befolgbare andere Meinung, die besagt, dass Ohren keine fasten-relevanten Öffnungen darstellen. Diese Ansicht wurde von unter anderem Imām al-Ghazālī (rahimahullāh) vertreten. Es wird argumentiert, die Ohren würden nicht direkt in die Schädelhöhle führen und ähneln somit mehr den Poren der Haut und weniger einer richtigen Körperöffnung, wie beispielsweise dem Mund oder der Nase. Obwohl die Hauptmeinungen generell bevorzugt werden sollten, weil diese stärker und somit sicherer sind, dürften diese anderen Meinungen grundsätzlich auch befolgt werden.
+
+#### 1.3 Hohlraum des Körpers
+
+Mit den Hohlräumen des Körpers sind grundsätzlich der Kopf und der Rumpf gemeint. Also nicht die Arme und Beine.
+
+Deswegen brächen medizinische Injektionen oder Blutabnahmen das Fasten generell nicht, wenn sie an den Armen oder Beinen durchgeführt werden, wobei es dennoch empfohlen wäre, diese beim Fasten zu vermeiden. Bei der Blutabnahme wird dem Körper zwar nur eine Substanz entnommen, aber das Stechen mit der Nagel selbst bräche bereits das Fasten, weil die Nadel auch als fastenbrechende Substanz gewertet wird.
+
+### 2\. (Fast) alles, das den Ghusl notwendig macht.
+
+Diese Aussage trifft jedoch nicht uneingeschränkt zu, weil der feuchte Traum beispielsweise zwar den Ghusl notwendig machen würde, aber nicht das Fasten bräche. Die Aussage dient daher mehr als Faustregel.
+
+Für das Fasten wären die folgenden Handlungen entscheidend:
+
+1. Geschlechtsverkehr
+2. Sexueller Höhepunkt
+3. Menstruation und Wochenbett
+
+#### 2.1 Geschlechtsverkehr
+
+Bei dem Mann bräche das Fasten erst, wenn der Kopf des männlichen Organs in der Öffnung der Frau 'verschwindet', auch wenn es dabei zu keinem sexuellen Höhepunkt käme.
+
+Bei der Frau bräche das Fasten jedoch bereits aufgrund des Fastenbrechers, der im Beitrag an erster Stelle behandelt wurde ("_Substanz durch eine Körperöffnung in einen Hohlraum_").
+
+Wenn ein Mann sein Fasten durch den Geschlechtsverkehr bricht, erfordert dies laut der Madhhab grundsätzlich die aufwendige Sühneleistung (Kaffārah) mit den sechzig Fastentagen. (Näheres inshāAllāh in einem eigenen Beitrag.)
+
+#### 2.2 Sexueller Höhepunkt
+
+Wenn in diesem Zusammenhang von dem sexuellen Höhepunkt die Rede ist, dann ist jener gemeint, bei dem auch die entsprechende Flüssigkeit (Manī) austritt. Das ist in der Praxis aber sowieso so gut wie immer der Fall.
+
+In den gängigen Fällen würde der sexuelle Höhepunkt zwar das Fasten brechen, aber deswegen nicht gleich in jedem einzelnen erdenklichen Fall.
+
+<span style="text-decoration:underline;">Faustregel</span>: Wenn die Ursache eines aufgetretenen sexuellen Höhepunkts zu den Dingen gehört, die den sexuellen Höhepunkt gewöhnlich herbeiführen, dann bräche es das Fasten.
+
+Der **feuchte Traum** bräche das Fasten nicht, weil man diesen nicht unter Kontrolle hat, wohingegen der sexuelle Höhepunkt durch das (allgemein verbotene) **Masturbieren**das Fasten bräche.
+
+Was sexuelle Höhepunkte aufgrund von **Berührungen**einer Person des anderen Geschlechts angeht, so werden hierzu eigentlich einige Details genannt, die ich an dieser Stelle jedoch nicht erwähnen werde. Man kann sich nach der oberen Faustregel orientieren und im Zweifelsfall dann einfach nachfragen. Einzig und allein Folgendes wird explizit erwähnt: Wenn ein Mann eine Frau berührt, die ihm nicht ewig für die Ehe verboten wäre, wie generell fremde Frauen oder sogar seine Ehefrau (im Gegensatz beispielsweise zur Mutter oder Tochter), dann bräche das Fasten, wenn der Höhepunkt durch einen Kontakt von Haut zu Haut zustande käme, auch wenn bei dem Kontakt keine Lust involviert war. Wenn der Kontakt jedoch über ein Hindernis wie Kleidung stattfand, dann würde er das Fasten nicht brechen, auch wenn Lust involviert war.
+[Ausgenommen hiervon wäre, wenn die Person eine direkte und explizite Absicht hatte, durch den Kontakt den sexuellen Höhepunkt zu erreichen. In diesem Fall würde das Fasten nämlich in jedem Fall ungültig werden.]
+
+Führt das alleinige **Anschauen oder Nachdenken** zum sexuellen Höhepunkt, so würde es das Fasten nicht brechen.
+
+Sich seinem **Ehepartner sexuell zu nähern**, beispielsweise durch das Küssen oder Umarmen, wäre für die fastende Person verboten, wenn es lustvoll geschieht. Andernfalls wäre es lediglich nicht zu empfehlen, um auf der sichereren Seite zu sein. Außerdem wäre die allgemeine Enthaltung von Gelüsten angemessener für den Fastenden.
+
+#### 2.3 Menstruation und Wochenbett
+
+Sollte die Menstruation während des Fastens einsetzen, bräche sie sofort das Fasten. Dasselbe gilt auch für die Wochenbettblutung bzw. das Gebären an sich.
+
+Setzt die Menstruation im Ramadān beispielsweise unmittelbar vor Maghrib ein, wäre der Fastentag zwar ungültig und müsste später nachgeholt werden, aber auf keinen Fall wäre dieser unvollständige Fastentag dann umsonst gewesen, weil der Lohn dafür trotzdem nicht verloren geht.
+
+### 3\. Absichtliches Übergeben
+
+> Der Gesandte ALLĀHs ﷺ sagte (ungefähr übersetzt):
+> 
+> "Wer von dem Übergeben überwältigt wird, muss ihn nicht nachholen. Wer sich absichtlich übergibt, muss ihn nachholen."
+> 
+> <cite>[siehe Sunan Abū Dāwūd und at-Tirmidhī]</cite>
+
+Dieser Fastenbrecher ist alleinständig gültig. Er gilt also nicht nur, weil man beim Übergeben möglicherweise Substanzen verschlucken könnte.
+
+Das unabsichtliche Übergeben bräche das Fasten jedoch nicht. Wer sich unabsichtlich übergibt und dann sogar, ohne es zu wollen, Reste des Erbrochenen verschluckt, dessen Fasten bräche genauso nicht. Wenn man das Verschlucken jedoch verhindern hätte können, bräche es das Fasten schon.
+
+### 4\. Geistesstörung/Wahnsinn
+
+### 5\. Apostasie
+
+**[siehe Reliance of the Traveller, The Accessible Conspectus,**[**Shaykh Jamir's Ramadan-Text**](http://seekershub.org/ans-blog/2016/05/22/fiqh-fasting-ramadan-according-school-imam-shafii/)**, Halil Günenç's Islam-Handbuch]**

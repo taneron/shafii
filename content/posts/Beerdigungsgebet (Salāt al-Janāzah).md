@@ -1,0 +1,131 @@
+---
+postslug: "beerdigungsgebet-salat-al-janazah"
+posted: 2018-10-19T06:43:16Z
+published: false
+title: "Beerdigungsgebet (Salāt al-Janāzah)"
+categories: ["Gebet"]
+tags: ["absicht", "anleitung", "Beerdigung", "fiqh", "hadith", "janazah", "madhhab", "salah", "shafi"]
+excerpt: "Jeder verstorbene Muslim hat ein Anrecht bei seinen Geschwistern darauf, dass dieseBereits ein einz..."
+---
+
+Jeder verstorbene Muslim hat ein Anrecht bei seinen Geschwistern darauf, dass diese
+
+1. ihn waschen,
+2. einhüllen,
+3. sein Beerdigungsgebet verrichten, und
+4. ihn begraben.
+
+Bereits ein einziger Muslim würde reichen, um dieser gemeinschaftlichen Verpflichtung (Fard al-Kifāyah) nachzukommen.
+
+In diesem Beitrag soll möglichst einfach der Ablauf des Beerdigungsgebets erklärt werden. Dinge, welche das Gebet zwar verschönern würden, aber das Thema womöglich vermeidbar verkomplizieren könnten, werden nicht behandelt.
+
+#### Inhaltsverzeichnis:
+
+1. Gewaltiger Lohn für die Teilnahme
+2. Ablauf des Gebets
+    * Erster Takbīr
+    * Zweiter Takbīr
+    * Dritter Takbīr
+    * Vierter Takbīr
+    * Salām am Ende
+    * Zusammenfassung der Pflichten
+3. Sonstiges
+    * Sūrat al-Fātihah nicht rechtzeitig zu Ende rezitieren können
+
+### 1\. Gewaltiger Lohn für die Teilnahme
+
+> Der Gesandte ALLĀHs (ﷺ) sagte sinngemäß:
+> 
+> "__Wer an der Beerdigung teilnimmt bis das Gebet verrichtet wurde, erhält einen Qirāt (an Belohnung) und wer daran teilnimmt bis der Verstorbene begraben wurde, erhält zwei Qirāt."____Er ('alayhis-salātu was-salām) wurde über die zwei Qirāt (an Belohnung) gefragt und antwortete sinngemäß: _"___Wie zwei gewaltige Berge.__"
+> 
+> <cite>[Sahih al-Bukhārī und Sahih Muslim]</cite>
+
+### 2\. Ablauf des Gebets
+
+Das Beerdigungsgebet (Salāt al-Janāzah) besteht grundsätzlich nur aus dem Stehen, welches durch vier Takbīrāt (das Sagen von "_Allāhu akbar_") unterteilt wird. Es gibt keine Verbeugungen und auch keine Niederwerfungen in diesem Gebet.
+
+Bei all diesen Takbīrāt werden die Hände wie gewohnt gehoben und anschließend wieder unmittelbar unter der Brust platziert.
+
+#### 2a. Erster Takbīr
+
+Zu Beginn spricht man den Anfangs-Takbīr (Takbīrat al-Ihrām) und rezitiert dann Sūrat al-Fātihah.
+
+Weil das Beerdigungsgebet eine (gemeinschaftliche) Verpflichtung darstellt, ist es auch notwendig, dass man bei dem ersten Takbīr bewusst darüber ist (also 'beabsichtigt'), dass hiermit eine Pflicht erfüllt wird und nicht nur ein freiwilliges Gebet verrichtet wird.
+
+Vor Sūrat al-Fātihah wäre es empfohlen, den Ta'awwudh ("_A'ūdhu billāhi minash-shaytānir-rajīm_") aufzusagen.
+
+Sūrat al-Fātihah zu rezitieren, ist zwar verpflichtend, aber nicht unbedingt nach dem ersten Takbīr. Man könnte auch nach einem der anderen Takbīrāt rezitieren, aber nach dem ersten Takbīr wäre es am besten.
+
+Was eine Person macht, die in einem Gemeinschaftsgebet nicht ausreichend Zeit für Sūrat al-Fātihah hat, folgt in 3a.
+
+#### 2b. Zweiter Takbīr
+
+Nach dem zweiten Takbīr spricht man Salawāt auf Rasūlullāh (ﷺ).
+
+<span style="text-decoration:underline;">Minimum:</span> "_Allāhumma salli alā muhammad"_
+
+<span style="text-decoration:underline;">Empfohlen:</span> Die empfohlene Variante ist diejenige, welche man am Ende von (normalen) Gebeten aufsagt; auch _Salāt al-Ibrāhīmiyyah_ genannt.
+
+#### 2c. Dritter Takbīr
+
+Nach dem dritten Takbīr spricht man Du'ās für den Verstorbenen.
+
+An dieser Stelle wird nur die Mindest-Du'ā erwähnt, weil die empfohlene Du'ā ziemlich lang ist und deswegen womöglich, trotz ihrer schönen Inhalte, so manchen Leser überfordern könnte.
+
+اللَّهُمَّ اغْفِرْ لَهُ.
+
+_Allāhumma-ghfir lah(u)._
+
+"_Oh ALLĀH, vergib ihm._"
+
+#### 2d. Vierter Takbīr
+
+Nach dem vierten Takbīr spricht man eine Du'ā für die Allgemeinheit der Muslime.
+
+Die Du'ā an dieser Stelle ist keine Pflicht, sondern lediglich empfohlen.
+
+اللَّهُمَّ لَا تَحْرِمْنَا أَجْرَهُ وَلَا تَفْتِنَّا بَعْدَهُ، وَاغْفِرْ لَنَا وَلَهُ.
+
+_Allāhumma lā tahrimnā ajrah(u) wa lā taftinnā ba'dah(u) wa-ghfir lanā wa lah(u)._
+
+"_Oh ALLĀH, halte uns nicht von seinem Lohn ab, setze uns nach ihm keinen Versuchungen aus und vergib uns und ihm._"
+
+Man könnte hier auch jede andere Du'ā aufsagen, welche die Allgemeinheit der Muslime betrifft, wie beispielsweise diese:
+
+رَبَّنَآ ءَاتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْأَخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ.
+
+_Rabbanā ātinā fid-Dunyā hasanataw-wa fil-Ākhirati hasanataw-wa qinā adhāban-nār._
+
+"_Unser Herr, gib uns Gutes in dieser Welt und Gutes im Jenseits und schütze uns vor der Strafe des Feuers._"
+
+Theoretisch wäre es auch möglich nach dem vierten Takbīr einfach nichts zu sagen und den Salām des Imāms abzuwarten.
+
+#### 2e. Salām am Ende
+
+Dann schließt man das Gebet mit den beiden Salām's ab.
+
+Diese werden selbstverständlich auch im Stehen verrichtet. Man dreht seinen Kopf bei diesen (wie gewohnt) nach rechts und dann nach links.
+
+#### 2f. Zusammenfassung der Pflichten
+
+Die sieben Pflichten des Beerdigungsgebets zusammengefasst:
+
+1. Absicht
+2. Stehen
+3. Vier Takbīrāt
+4. Sūrat al-Fātihah (am besten) nach dem ersten Takbīr
+5. Salawāt für den Gesandte ALLĀHs (ﷺ) nach dem zweiten Takbīr
+6. Du'ā für den Verstorbenen nach dem dritten Takbīr
+7. Salām am Ende
+
+### 3\. Sonstiges
+
+#### 3a. Sūrat al-Fātihah nicht rechtzeitig zu Ende rezitieren können
+
+Wenn man nicht ausreichend Zeit mit dem Imām hatte, um Sūrat al-Fātihah zu rezitieren bevor der Imām den nächsten Takbīr erreicht, wird die Verpflichtung des verbleibenden Abschnitts mit der Rezitation des Imāms erfüllt. Man könnte dann also einfach aufhören und dem Imām direkt folgen. Das alles jedoch unter der Annahme, dass der Imām sie überhaupt im Gebet rezitiert hat. Laut dem Hanafi Madhhab wird sie im Beerdigungsgebet beispielsweise gar nicht rezitiert.
+
+Wenn man einem Hanafi-Imām im Beerdigungsgebet folgt, sollte man in einem solchen Fall noch nicht mit dem Imām den nächsten Takbīr aufsagen, sondern stattdessen einfach Sūrat al-Fātihah etwas schneller zu Ende rezitieren. Solange der Imām nicht auch noch den übernächsten Takbīr erreicht, während man immer noch nicht den nächsten Takbīr aufgesagt hat, wäre das nämlich noch gültig. Das sollte aber normalerweise nicht passieren, wenn man etwas schneller rezitiert und der Imām nicht wirklich schnell vorbetet.
+
+Es wäre allgemein nicht möglich, einfach den nächsten Takbīr aufzusagen und Sūrat al-Fātihah dann danach so zu Ende zu rezitieren.
+
+**[siehe Reliance of the Traveller, Fiqh al-Ibādāt (von Shaykhah Hājjah Durriyah al-Aytah) und Fath al-Qarīb]**

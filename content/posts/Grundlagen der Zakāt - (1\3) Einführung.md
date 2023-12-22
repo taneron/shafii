@@ -1,0 +1,34 @@
+---
+postslug: "grundlagen-der-zakat-1-3-welche-dinge-sind-zakatbar"
+posted: 2019-12-21T23:00:51Z
+published: false
+title: "Grundlagen der Zakāt - (1/3) Einführung"
+categories: ["Zakat"]
+tags: ["ackerbau", "besitz", "empfänger", "geld", "geschlechtsreife", "gold", "handelsgut", "handelswaren", "kind", "kinder", "landwirtschaft", "nutztiere", "silber", "tiere", "zakah", "zeit"]
+excerpt: "Bei der Zakāt handelt es sich allgemein um das AbgebenJedem Muslim mit Besitz, welcher die jeweilig..."
+---
+
+Bei der Zakāt handelt es sich allgemein um das Abgeben
+
+* eines bestimmten Anteiles
+* bestimmter Dinge
+* ab einem bestimmten Wert
+* nach einer bestimmten Zeit
+* an bestimmte Empfänger.
+
+Jedem Muslim mit Besitz, welcher die jeweiligen Voraussetzungen erfüllt, obliegt die ordnungsgemäße Entrichtung der Zakāt; unabhängig davon, wie alt man ist. Vor der Geschlechtsreife ist jedoch der Vormund (also die Eltern) des noch nicht geschlechtsreifen Kindes verpflichtet, für die ordnungsgemäße Entrichtung der Zakāt des Kindes zu sorgen. Sollte der Vormund diese Pflicht vernachlässigt haben, muss das Kind nach der Geschlechtsreife seine verpasste Zakāt selbst nachträglich entrichten.
+
+#### Zakātbare Dinge
+
+Die folgenden vier Dinge werden in den Büchern als zakātbarer Besitz genannt:
+
+1. Nutztiere
+2. Ackerbau und Früchte
+3. Gold und Silber (inklusive andere Geldmittel)
+4. Handelswaren
+
+Die Grundidee dahinter ist, dass die Zakāt von Dingen entrichtet werden muss, die zu einem Zuwachs bzw. einer Mehrung führen können. Eine Person muss sich daher keine Gedanken darüber machen, ob sie für beispielsweise ihre Möbel oder ihr Auto die Zakāt entrichten muss, auch wenn sie 300 Privatautos besitzt.
+
+Im Fokus steht bei der Zakāt auch nicht, was für ein Einkommen eine Person hat, sondern wie viel sie von ihrem Einkommen auf die Seite legt. Es wäre daher im Rahmen des Möglichen, dass eine Person mit einem unvorstellbar hohen Einkommen nie die Zakāt entrichten muss, während eine Person mit einem deutlich niedrigeren Einkommen es jedoch muss.
+
+Obwohl die Zakāt von Nutztieren, Ackerbau und Früchten ausgiebig in den Büchern des Fiqh behandelt wird, habe ich nicht vor, darüber zu schreiben. In dieser Reihe werde ich mich auf die Zakāt von Geld beschränken und werde versuchen, dabei möglichst viele relevante Inhalte zu behandeln. Zu einem späteren Zeitpunkt wird vielleicht auch noch (in einem separaten Beitrag) die Zakāt von Handelswaren behandelt.

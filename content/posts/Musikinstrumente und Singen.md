@@ -1,0 +1,64 @@
+---
+postslug: ""
+posted: 2018-11-13T10:32:21Z
+published: false
+title: "Musikinstrumente und Singen"
+categories: ["Allgemein"]
+tags: []
+excerpt: "In Deinem Namen lernen wir diese Dinge und nur Dir gegenüber müssen wir uns am Ende rechtfertigen.❝..."
+---
+
+### Bismillāhir-rahmānir-rahīm
+
+In Deinem Namen lernen wir diese Dinge und nur Dir gegenüber müssen wir uns am Ende rechtfertigen.
+
+## Imām Ibn Hajar al-Haytamī (rahimahullāh) sagt:
+
+❝Was die Verurteilung der Musikinstrumente, Flöten, Streichinstrumenten und dergleichen angeht durch den Ehrlichen und Vertrauenswürdigen (sallAllahu 'alayhi wa sallam), welcher 'nicht aus eigener Neigung spricht. Es ist nur eine Offenbarung, die eingegeben wird.' [53:3-4] Lasst diejenigen, die ihm den Gehorsam verweigern, Vorsicht walten lassen ehe ein Verhängnis sie trifft oder eine schmerzhafte Strafe.
+
+Der Prophet (sallALLĀHu 'alayhi wa sallam) sagte (sinngemäß):
+
+1. "ALLĀH 'azza wa jall sandte mich als Rechtleitung und Barmherzigkeit für die Gläubigen und befahl mir Musikinstrumente, Flöten, Streichinstrumente, Kreuze und die Angelegenheiten der Jahiliyyah abzuschaffen." [Musnad Ahmad]
+2. "Am Tag der Auferstehung wird ALLĀH geschmolzenes Blei in die Ohren derjenigen gießen, die saßen und Sängerin zuhörten." [Ibn 'Asakir, Ibn al-Misri]
+3. "Gesang lässt die Heuchlerei im Herzen wachsen, wie Wasser Pflanzen (wächsen lässt)." [Sunan al-Bayhaqi]
+4. "Diese Ummah wird das Verschluckt werden einiger Leute durch die Erde erleben, die Umwandlung mancher zu Tieren und das mit Steinen beregnet werden." Jemand fragte "Wann wird dies sein, oh Gesandter ALLĀHs?" und er antwortete (sallALLĀHu 'alayhi wa sallam): "Wenn Sängerinnen und Musikinstrumente erscheinen und Khamr für erlaubt erklärt wird." [siehe Jami' at-Tirmidhi, Sunan Ibn Majah; im letzten Satz heißt es in Tirmidhi jedoch scheinbar "Khamr wird (gängig) getrunken".]
+5. "Es wird Leute aus meiner Ummah geben, welche Zina, Seide, Khamr und Musikinstrumente als erlaubt ansehen werden." [Sahīh al-Bukhārī]
+
+All dies ist ein ausdrücklicher und zwingender Beweis aus den Texten dafür, dass Musikinstrumente aller Arten verboten sind.❞
+
+#### [Entnommen aus Kaff ar-Ra'aa' 'an muharramaat al-Lahw wa as-Samaa', 2.269-70] [كف الرعاع عن محرمات اللهو والسماع]
+
+Aus dem selben Werk gibt es noch einen wichtigen Abschnitt über das Singen:
+
+❝Was das Anhören von Gesang angeht, welcher nicht durch Instrumente begleitet wird, so sollte man wissen, dass Singen oder das Anhören von Gesang makrūh ist, außer in den Situationen, die im Nachfolgenden erwähnt werden.
+
+Einige Gelehrte sagen, dass das Singen zu Hochzeiten und dergleichen sunnah ist, und von unseren (Shāfi'ī-)Imāmen sagen Ghazālī und Ibn 'Abd as-Salām, dass es sunnah ist, wenn es einen zu einem noblen Zustand verhilft, der einen dazu bringt, der Ākhirah zu gedenken. Es ist daher klar, dass jede Poesie, welche einen zu
+
+* guten Taten,
+* Weisheit,
+* edlen Eigenschaften,
+* dem Fernhalten von weltlichen Dingen,
+* oder zu ähnlichen frommen Charakterzügen, wie
+    * dem Anhalten zum Gehorsam ALLAH gegenüber,
+    * dem Folgen der Sunnah, oder
+    * dem Vermeiden von Ungehorsam,
+
+motiviert, sunnah ist zu schreiben, zu singen oder anzuhören, wie mehrere unserer Imāme erklärt haben offensichtlich ist, weil das Mittel zum Guten selbst gut ist.❞
+
+#### [Ibid., 2.273]
+
+## Imām an-Nawawī (rahimahullāh) sagte:
+
+❝Es ist verboten Musikinstrumente zu verwenden - wie zum Beispiel diejenigen, für die Trinker bekannt sind, wie die Mandoline, die Laute, das Becken und Flöte - oder diesen zuzuhören. Es ist erlaubt, den Daff (also "das Tamburin") zu Hochzeiten, Beschneidungen oder anderen Anlässen zu spielen, sogar wenn er Glocken an den Seiten hat. Das Schlagen der Kuba, eine lange Trommel mit einer schmalen Mitte, ist verboten.❞
+
+#### [al-Mughnī al-Muhtāj von Muhammad al-Khatīb ash-Shirbinī]
+
+## Ibn Hajar al-'Asqalani (rahimahullah) über die beiden Sängerinnen
+
+The Messenger of Allah (ﷺ) came (to my apartment) while there were two girls with me singing the song of the Battle of Bu`ath. He lay down on the bed and turned away his face. Then came Abu Bakr and he scolded me and said: Oh! this musical instrument of the devil in the house of the Messenger of Allah (ﷺ)! The Messenger of Allah (ﷺ) turned towards him and said: Leave them alone. And when he (the Holy Prophet) became unattentive, I hinted them and they went out, and it was the day of `Id
+
+Was diejenigen angeht, welche die Musik als erlaubt ansehen, so erwähnen sie normalerweise den Hadith, der von al-Bukhari überliefert wird, in dem es heißt, dass zwei Mädchen in der Anwesenheit des Propheten (sallAllahu 'alayhi wa sallam) und Sayyidah 'A'isha (radiAllahu 'anha) am Singen waren.
+
+Al-Hafidh Ibn Hajar al-'Asqalani (rahimahullah) hat diese Ansicht ausführlich in seinem bekannten Kommentar zu Sahih al-Bukhari, _Fath al-Bari_, widerlegt. (Auch ein Shafi'i.)
+
+Diese jungen Mädchen waren am Singen, ohne von verbotenen Musikinstrumenten begleitet zu werden und der Inhalt bezieht sich auf den Krieg, was sich insgesamt im Rahmen des Erlaubten befindet. Außerdem waren sie keine professionellen Sängern, wie klar aus dem Hadith zu entnehmen ist.

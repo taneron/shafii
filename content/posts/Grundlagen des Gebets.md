@@ -1,0 +1,140 @@
+---
+postslug: "grundlagen-des-gebets"
+posted: 2018-07-14T10:57:42Z
+published: false
+title: "Grundlagen des Gebets"
+categories: ["Gebet"]
+tags: ["anleitung", "fiqh", "grundlagen", "madhhab", "salah", "shafi"]
+excerpt: "Es folgt eine grundlegende Beschreibung des Gebets, gemäß der schāfi'ītischen Rechtsschule.Und durc..."
+---
+
+Es folgt eine grundlegende Beschreibung des Gebets, gemäß der schāfi'ītischen Rechtsschule.
+
+1. Auf die Besonderheiten von Gemeinschaftsgebeten oder beispielsweise des Witr-Gebets wurde nicht eingegangen, sondern einfach nur ein durchschnittliches Gebet behandelt.
+2. Es wurde versucht, möglichst die offiziellen Meinungen wiederzugeben, aber besonders im Bereich der Sunan (Mehrzahl von Sunnah) kann es leichte Fehler bzw. "Perfektionsmängel" in deren Details geben.
+3. Welche Dinge Pflichten darstellen und welche lediglich empfohlen sind, wurde nicht speziell hervorgehoben.
+4. Die Übersetzungen aus dem Arabischen sind höchstens als ungefähre Orientierungen zu verstehen.
+
+Und durch ALLĀH, dem Höchsten, ist der Erfolg.
+
+* * *
+
+* * *
+
+* Es reicht nicht die Inhalte des Gebets lediglich innerlich aufzusagen. Diese müssen mindestens so laut aufgesagt werden, dass man sich (unter ruhigen normalen Umständen) selber hören könnte. Andernfalls sind sie als ungültig zu betrachten!
+* Für Frauen gilt, dass diese sich, im Gegensatz zu Männern, im Gebet möglichst nicht ausbreiten sollten. An den entsprechenden Punkten wird dies hervorgehoben.
+
+* Um das Gebet zu beginnen, stellt man sich aufrecht hin, hebt seine Hände und spricht dabei den Takbīrat al-Ihrām ("_Allāhu akbar_").
+    * Die Hände deuten dabei mit ihrer Innenseite nach vorne.
+    * Die Zeigefinger sollten dabei ungefähr auf der Höhe der Spitze der Ohren sein, und die Daumen auf der Höhe der Ohrläppchen.
+    * Man steht im Gebet mit ungefähr einer Handspanne (ca. 23cm) zwischen den Füßen.
+* Während man den Takbīr aufsagt, muss einem bewusst sein, welches Gebet man überhaupt beten will:
+    * Ist es verpflichtend oder freiwililig?
+    * Welches verpflichtende oder freiwillige Gebet? (Dhuhr-Pflichtgebet, zwei Sunnah-Gebetseinheiten nach Maghrib, ...)
+* Seine Hände platziert man unmittelbar unter der Brust, indem man sein linkes Handgelenk mit seiner rechten Hand greift.
+* Während des gesamten Gebets blickt man nur auf den Punkt auf dem die Stirn in der Niederwerfung ruhen wird.
+    * Ausnahme: Im Tashahhud, wie weiter unten dann beschrieben wird.
+* Anschließend wird folgendes Du'ā al-Istiftāh (das Eröffnungs-Du'ā) gesprochen:
+
+وَجَّهْتُ وَجْهِي لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ حَنِيفًا مُسْلِمًا وَمَا أَنَا مِنَ الْمُشْرِكِينَ، إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَاىَ وَمَمَاتِي للهِ رَبِّ الْعَالَمِينَ، لَا شَرِيكَ لَهُ، وَبِذَلِكَ أُمِرْتُ، وَأَنَا مِنَ الْمُسْلِمِينَ.
+
+_Wajjahtu wajhī lilladhī fataras-samāwāti wal-arda hanīfan muslimā. Wa mā anā minal-muschrikīn. Inna salātī wa nusukī wa mahyāya wa mamātī lillāhi rabbil-ālamīn. La sharīkah lah. Wa bi-dhālika umirtu wa anā minal-muslimīn._
+
+_"Ich richte mein Angesicht zu demjenigen, der die Himmel und die Erde erschaffen hat, dem reinen Weg folgend als Muslim. Ich bin nicht von denjenigen, die Shirk betreiben. Zweifellos sind mein Gebet und mein Opfer und mein Leben und mein Tod für ALLAH, dem Herrn der Welten, der keinen Teilhaber hat. Und das wurde mir anbefohlen, zu tun, und ich bin von den Muslimen."_
+
+* Alternativ gibt es noch die folgende bekanntere Du'ā, die gelesen werden kann, falls man die zuvor genannte nicht kann:
+
+سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، وَتَبَارَكَ اسْمُكَ، وَتَعَالَى جَدُّكَ، وَلَا إِلَهَ غَيْرُكَ.
+
+_SubhānakAllāhumma wa bihamdik, wa tabāraka-smuk, wa ta'ālā jadduk, wa lā ilāha ghayruk._
+
+_"Herrlichkeit gebührt dir, oh ALLAH, und mit deiner Preisung, und segensreich ist Dein Name, und hoch-erhaben ist deine Majestät, und es gibt keine Gottheit, außer dir."_
+
+* Bevor man die Fātihah rezitiert, spricht man den Ta'awwudh ("_A'ūdhu billāhi minash-shaytānir-rajīm_"). Dieser wird in *jeder* Gebetseinheit aufgesagt und nicht nur in der ersten.
+* Anschließend rezitiert man die Sūrat al-Fātihah. Die Basmalah ("_Bismillāhir-rahmānir-rahīm_") wird von den Schāfi'īten als Bestandteil der Fātihah gesehen. Daher darf diese am Anfang nicht ausgelassen werden. Nach der Rezitation pausiert man kurz und sagt anschließend "Āmīn".
+* Daraufhin folgt die Rezitation aus dem Buche ALLAHs.
+* Man rezitiert die Fātihah und die Inhalte aus dem Qur'ān, die ihr folgen, in leisen Gebeten leise und in lauten Gebeten laut.
+    * Leise ("_sirran_"): Man könnte es normalerweise selber hören.
+    * Laut ("_jahran_"): Eine zweite Person, die neben einem steht, könnte es auch verstehen.
+    * Man rezitiert auch laut, wenn man ein lautes Gebet alleine betet.
+* Anschließend spricht man den Takbīr und hebt dabei seine Hände, wie man es am Anfang bereits getan hat. Man verbeugt sich erst, wenn die Hände die Schulterhöhe erreicht haben.
+    * Wenn man für einen Positionswechsel den Takbīr spricht, ist es empfohlen, diesen so zu verlängern, bis man die Position erreicht hat. Damit füllt man mögliche Lücken im Gebet auch mit Dhikr.
+* Man legt im Rukū' seine Hände auf seine Knie, die Finger auseinander, den Rücken zusammen mit dem Hals gerade und (bei Männer) die Ellbogen an den Seiten ausgebreitet.
+    * Es reicht bereits, wenn man sich einfach nur so tief verbeugen würde, dass eine durchschnittliche Person an ihre Knie herankommen könnte.
+* Im Rukū' sagt man nun dreimal "_Subhāna rabbiyal-adhīm_" ("_Mein gewaltiger Herr ist erhaben über Mängel_").
+    * Es ist besser, den Dhikr fünf, sieben, neun oder sogar bis zu elfmal aufzusagen. Die Anzahl sollte jedoch ungerade bleiben.
+
+* Wenn man sich aus dem Rukū' erhebt, hebt man gleichzeitig seine Hände auf Schulterhöhe und spricht "_Sami' Allāhu liman hamidah_" ("_ALLAH hört denjenigen, der ihn preist_").
+* Wenn man dann vollständig steht, sagt man "_Rabbanā lakal-hamd_" ("_Unser Herr, dir gebührt aller Lob_").
+* Zur Niederwerfung begibt man sich folgendermaßen:
+    1. Man beginnt den Takbīr zu sprechen.
+    2. Die Knie berühren den Boden.
+    3. Dann die Hände.
+    4. Die Stirn.
+    5. Die Nase.
+* Die Niederwerfung muss folgendermaßen sein:
+    * Ein Teil der Stirn muss **unbedeckt**den Boden berühren. Die Nase muss für eine gültige Niederwerfung nicht unbedingt den Boden berühren. Empfohlen ist es dennoch.
+    * Ein Teil der Knie, die Unterseite der Zehen beider Füße (ein Zeh pro Fuß würde bereits reichen) und die Finger beider Hände müssen den Boden berühren - **bedeckt oder unbedeckt**.
+    * Der Boden muss das Gewicht des Kopfes tragen.
+    * Die Hüfte muss höher sein als der Kopf.
+    * Man wirft sich nicht auf einer Sache nieder, die sich mit der eigenen Person bewegt, wie zum Beispiel einem Mantel. Wenn man den Mantel jedoch nur als Gebetsteppich verwendet, ergibt sich das Problem nicht, weil der Mantel sich dann nicht mit der eigenen Person bewegt ("kein Teil vom Körper ist").
+* Folgende Dinge sind zusätzlich empfohlen:
+    * Die Hände liegen unbedeckt unter den Schultern auf, Finger zusammen und in Richtung Qiblah.
+    * Die Füße und die Knie werden eine Handspanne (ca. 23cm) voneinander entfernt (bei Männern).
+    * Der Bauch wird von den Oberschenkeln ferngehalten (bei Männern).
+    * Die Ellbogen werden an den Seiten ausgebreitet (bei Männern).
+* In der Niederwerfung sagt man nun dreimal "Subhāna rabbiyal-A'lā". Dies kann auch bis hin zu elf-mal wiederholt werden.
+    * Es ist besser, den Dhikr fünf, sieben, neun oder sogar bis zu elfmal aufzusagen. Die Anzahl sollte jedoch ungerade bleiben.
+* Nun erhebt man sich mit dem Takbīr in "das Sitzen zwischen den Niederwerfungen".
+* Man sitzt hier _iftirāsch_.
+    * Man setzt sich auf den linken Fuß, der nach links gekippt wurde.
+    * Der rechte Fuß wird hinten aufgerichtet und seine Zehen in Richtung Qiblah gebeugt. (Wem das zu schwer ist, kann das Beugen der Zehen auch unterlassen.)
+* Die Hände ruhen hier unmittelbar vor den Knien auf den Oberschenkeln und man spricht folgendes Du'ā:
+
+اللَّهُمَّ اغْفِرْلِي، وَارْحَمْنِي، وَعَافِنِي، وَاجْبُرْنِي، وَاهْدِنِي، وَارْزُقْنِي.
+
+_Allāhumma ghfirlī, warhamnī, wa 'āfinī, wajburnī, wahdinī, warzuqnī._
+
+_"Oh ALLAH, vergib mir, lass mir Rahmah zuteilwerden, entschuldige mich, verbessere mich, leite mich und versorge mich."_
+
+* Anschließend begibt man sich in die zweite Niederwerfung.
+* Wenn man nach den Niederwerfungen gleich für die nächste Gebetseinheit aufstehen will, erhebt man sich zunächst nur in ein Sitzen, verweilt für eine kurze Zeit darin, stützt sich anschließend mit den Handinnenflächen ab und erhebt sich dann erst, mit dem Takbīr. Die Hände werden hier nicht gehoben.
+
+* Folgt auf die Niederwerfungen der Tashahhud, so sitzt man _iftirāsch_, falls man sich nicht in der letzten Gebetseinheit befindet, und _tawarruk_, falls schon.
+* Sitzen in _tawarruk_:
+    * Der linke Unterschenkel liegt nach links gekippt auf dem Boden auf.
+    * Der linke Fuß liegt unter dem rechten Bein.
+    * Das rechte Bein wird, wie im I_ftirāsch,_ vertikal platziert, der rechte Fuß wieder nach hinten angehoben und (falls möglich) die Zehen in Richtung Qiblah gebeugt.
+* Der Text des Tashahhud ist der folgende:
+
+اَلتَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ للهِ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَ عَلَى عِبَادِ اللهِ الصَّالِحِينَ، أَشْهَدُ أَن لَّا إِلَاهَ إِلَّا اللهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا رَّسُولُ اللهِ.
+
+_At-tahiyyātul-mubārakātus-salawātut-tayyibātu lillāh. As-salāmu 'alayka ayyuhan-nabiyyu wa rahmatullāhi wa barakātuh. As-salāmu 'alaynā wa 'alā 'ibādillāhis-sālihīn. Ashhadu al lā ilāha illAllāh. Wa ash-hadu anna muhammadar-rasūlullāh._
+
+_"Die gesegneten Grüße und reinen Gebete gebühren ALLAH. Frieden soll dir zuteil werden, oh Prophet, und die Barmherzigkeit und der Segen ALLAHs. Frieden soll uns zuteil werden und auch den rechtschaffenen Dienern von ALLAH. Ich bezeuge, dass es keine Gottheit gibt, außer ALLAH, und ich bezeuge, dass Muhammad der Gesandte ALLAHs ist."_
+
+* Die zuvor genannte Version geht auf Ibn 'Abbās (radīAllāhu 'anhu) zurück und ist aufgrund des Zusatzes "al-Mubarakātu" laut Imam ash-Shafi'i (radīAllāhu 'anhu) besser. Eine andere authentisch überlieferte Form des Tashahhud kann auch rezitiert werden. Der Tashahhud, der möglicherweise bekannter unter den Muslimen ist, ist der folgende, welcher auf Ibn Mas'ūd (radīAllāhu 'anhu) zurückgeht:
+
+اَلتَّحِيَّاتُ للهِ،وَالصَّلَوَاتُ وَالطَّيِّبَاتُ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَ عَلَى عِبَادِ اللهِ الصَّالِحِينَ، أَشْهَدُ أَن لَّا إِلَاهَ إِلَّا اللهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ.
+
+_At-tahiyyātu lillāhi was-salawātu wat-tayyibāt. As-salāmu 'alayka ayyuhan-nabiyyu wa rahmatullāhi wa barakātuh. As-salāmu 'alaynā wa 'alā 'ibādillāhis-sālihīn. Ashhadu al lā ilāha illAllāh. Wa ash-hadu anna muhammadan 'abduhu wa rasūluh._
+
+_"Die Grüße gebühren ALLAH, genauso wie die Gebete und guten reinen Dinge. Frieden soll dir zuteil werden, oh Prophet, und die Barmherzigkeit und der Segen ALLAHs. Frieden soll uns zuteil werden und auch den rechtschaffenen Dienern von ALLAH. Ich bezeuge, dass es keine Gottheit gibt, außer ALLAH, und ich bezeuge, dass Muhammad sein Diener und Gesandter ist."_
+
+* Die Hände ruhen auch bei diesem Sitzen unmittelbar vor den Knien. Die rechte Hand wird zur Faust gesammelt, mit Ausnahme des Zeigefingers, der ausgestreckt aufliegt. Der Zeigefinger wird leicht angehoben, wenn im Tashahhud die Stelle "illAllāh" erreicht wird und erst wieder abgesenkt, wenn man zur nächsten Gebetseinheit aufsteht oder den ersten Salām spricht. Man blickt durchgehend auf den Zeigefinger während dieser gehoben wird.
+* Falls man sich nicht in der letzten Gebetseinheit befindet, sagt man nach dem Tashahhud "Allāhumma salli 'alā Muhammad" ("_Oh ALLAH, ehre Muhammad_") und erhebt sich in die nächste Gebetseinheit, auf den Handinnenflächen stützend und mit dem Takbīr. Hier werden die Hände wieder auf Schulterhöhe gehoben.
+* Sollte man sich jedoch bereits in der letzten Gebetseinheit befinden, spricht man die längere Form dieser Du'ā:
+
+اللَّهمَ صَلِّ عَلَى مُحَمَّدٍ وَّعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ،
+وَبَارِكْ عَلَى مُحَمَّدٍ وَّعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، فِي الْعَالَمِينَ إِنَّكَ حَمِيدٌ مَّجِيد.
+
+_Allāhumma salli 'alā muhammadiw wa 'alā āli muhammad, kamā sallayta 'alā ibrāhīma wa 'ala āli ibrāhīm, wa bārik 'alā muhammadiw wa 'āla āli muhammad, kamā bārakta 'alā ibrāhīma wa 'alā āli ibrāhīm, fil-ālamīn. Innaka hamidum majīd._
+
+_"Oh ALLAH, ehre Muhammad und die Familie von Muhammad, so wie du Ibrahim geehrt hast und die Familie von Ibrahim. Und segne Muhammad und die Familie von Muhammad, so wie du Ibrahim gesegnet hast und die Familie von Ibrahim, in all den Welten. Du bist doch der, der am meisten der Preisung würdig ist, der majestätischste."_
+
+* Es ist zusätzlich empfohlen vor der Erwähnung von Rasūlullāh Muhammad (ﷺ) und Ibrāhīm (alayhis-salātu was-salām) den Titel "sayyidinā" ("unser Meister") anzuhängen.
+* Man kann nun vor dem Taslīm Du'ās aufsagen.
+
+* Am Ende des Gebets macht man nun den Taslīm mit den Worten "As-salāmu 'alaykum wa rahmatullāh", ohne "wa barakātuh" anzuhängen, in beide Richtungen.
+
+**[das Meiste, wenn nicht sogar alles, kann in**_**Reliance of the Traveller**_**nachgeschlagen werden]**

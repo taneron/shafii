@@ -1,0 +1,224 @@
+---
+postslug: "entwicklung-der-madhhab-1-4-das-leben-von-imam-ash-shafii"
+posted: 2019-01-09T22:37:46Z
+published: false
+title: "Entwicklung der Madhhab (1/4) - Das Leben von Imām ash-Shāfi'ī"
+categories: ["Allgemein"]
+tags: ["ägypten", "ahlul bayt", "ahlur ra'i", "Ahmad Ibn Hanbal", "biographie", "Buwayti", "harun", "ibn khalid", "imam", "islam", "jadid", "jemen", "madinah", "makkah", "malik", "muhammed", "mujaddid", "muzani", "qadim", "qawl", "Rabi'", "rashid", "risalah", "shafi", "sufyan ibn uyaynah", "Umm"]
+excerpt: "In dieser Beitragsreihe geht es darum, dem Leser einen groben Überblick über die Hintergründe des S..."
+---
+
+In dieser Beitragsreihe geht es darum, dem Leser einen groben Überblick über die Hintergründe des Shāfi'ī-Madhhabs zu geben - eine Art "kurzer Geschichtsunterricht".
+
+Begonnen wird damit, das Leben von Imām ash-Shāfi'ī (radīAllāhu anhu) selbst zu behandeln. Weil es mir nicht liegt, Texte außerordentlich künstlerisch auszuschmücken, wird der Text eher eine Aufzählung von Fakten anstelle einer aufregenden Erzählung.
+
+* 0 Jahre - 150 n.H.
+* 2 Jahre - 152 n.H. - Makkah
+* 13 Jahre - 163 n.H. - Madinah
+* 29 Jahre - 179 n.H. - Jemen
+* 34 Jahre - 184 n.H. - Baghdād
+* 39 Jahre - 189 n.H. - Zurück nach Makkah
+* 45 Jahre - 195 n.H. - Zurück nach Baghdād
+* 49 Jahre - 199 n.H. - Ägypten
+* 54 Jahre - 204 n.H. - Tod
+
+### 0 Jahre - 150 n.H.
+
+_Imām Abū Abdillāh Muhammad Ibn Idrīs ash-Shāfi'ī_ (radīAllāhu anhu) wurde im Jahre 150 n.H. geboren - im gleichen Jahr in dem Imām Abū Hanīfah (radīAllāhu anhu) verstarb. Also lagen rund 140 Jahre zwischen ihm und dem Gesandten ALLĀHs (ﷺ).
+
+Geboren wurde er in Ghaza (im heutigen Palästina), weil sein Vater aus geschäftlichen Gründen dorthin musste. Sein Vater starb jedoch kurz nach seiner Geburt.
+
+#### Abstammung
+
+Väterlicherseits stammte er von Ahlul Bayt ab (der prophetischen Familie alayhum us-salātu was-salām):
+
+<div class="wp-block-image">
+
+<figure class="aligncenter is-resized">![](Entwicklung der Madhhab (1\4) - Das Leben von Imām ash-Shāfi'ī-1.png)</figure>
+
+</div>
+
+Shāfi' Ibn as-Sā'ib war einer der Gefährten des Propheten (ﷺ) und sein Vater nahm den Islam am Tag von Badr an.
+
+Obwohl Imām ash-Shāfi'ī nicht direkt vom Propheten (ﷺ) abstammte, sondern nur von Banū al-Muttalib, wurde er unter anderem wegen dem folgenden Hadith dennoch zu Ahlul Bayt gezählt:
+
+> Der Gesandte ALLĀHs (ﷺ) sagte sinngemäß:
+> 
+> "Banū al-Muttalib und Banū Hāshim sind ein und dasselbe."****
+> 
+> <cite>[Sahīh al-Bukhārī]</cite>
+
+#### Mujaddid
+
+> Der Gesandte ALLĀHs (ﷺ) sagte sinngemäß:
+> 
+> "Ohne Zweifel wird ALLĀH dieser Ummah zu Beginn jedes Jahrhunderts jemanden senden, der ihre Religion für sie (zu ihrem ursprünglichen Zustand zurück)erneuert."
+> 
+> <cite>[siehe Abū Dāwūd, Imām as-Suyūtī überliefert einen Ijmā' über seine Authentizität]</cite>
+
+Die gängigste Meinung unter den Gelehrten ist, dass der damalige Kalif Umar Ibn Abdul Azīz der Erneuerer des ersten Jahrhunderts war und Imām ash-Shāfi'ī der Erneuerer des zweiten Jahrhunderts war.
+
+[Bei einem solchen Erneuerer muss es sich jedoch nicht unbedingt um eine Einzelperson handeln. Dies wird von Gelehrten wie beispielsweise Imām adh-Dhahabī und al-Hāfidh Ibn Hajar al-Asqalānī hervorgehoben (rahmatullāh alayhumā).]
+
+### 2 Jahre - 152 n.H. - Makkah
+
+Als er zwei Jahre alt war, zog seine Mutter mit ihm nach Makkah, um seine besondere Abstammung zu bewahren. Er lebte unter sehr armen Verhältnissen und als Halbwaise, was ihn bei seiner Charakterentwicklung jedoch nur zugutekam.
+
+In Makkah konnte er den Qur'ān im Alter von sieben Jahren auswendig. Dort pflegte er es auch mit dem Beduinen-Stamm _Hudhayl_ in der Umgebung Makkahs zu leben, der dafür bekannt war, das reinste und höchste Arabisch zu sprechen. Er verbrachte nahe zu zehn Jahre mit ihnen. Dadurch eignete auch er sich entsprechende sprachliche Fähigkeiten an und vertiefte sich auch in die arabische Poesie.
+
+Al-Asmā'i, welcher bekannt für sein Wissen über die arabische Sprache war, sagte: "Ich untersuchte die Poesie von Hudhayl mit einem Jungen der Quraysh namens Muhammad Ibn Idrīs (ash-Shāfi'ī)."
+
+Später in seinem Leben nahmen sogar Beduinen an seinen Unterrichten teil, die eher nicht dafür bekannt waren, sich mit Wissen zu beschäftigten. Als man sie darüber fragte, sagten sie, dass sie nur wegen seinem Arabisch teilnahmen.
+
+Einer der Gefährten von Imām ash-Shāfi'ī ging sogar so weit und sagte, dass man bei genauerer Beobachtung seiner Wortwahl in der gesamten arabischen Sprache keine besseren Worte finden konnte (für den jeweiligen Sachverhalt).
+
+Imām Ahmad sagte: "Die Worte von ash-Shāfi'ī können in der arabischen Sprache als Beweise herangezogen werden."
+
+Imām ash-Shāfi'ī hatte in Makkah auch die Gelegenheit von dem großen Hadith-Gelehrten _Sufyān Ibn Uyaynah_ und dem damaligen Mufti von Makkah _Muslim Ibn Khālid az-Zanjī_zu lernen__(radīAllāhu anhumā). Der Mufti erteilte Imām ash-Shāfi'ī sogar die Erlaubnis Fatāwā zu geben als der junge Imām erst 15 Jahre alt war.
+
+### 13 Jahre - 163 n.H. - Madinah
+
+Im Alter von 13 Jahren reiste Imām ash-Shāfi'ī von Makkah nach Madinah, um dort von _Imām Mālik Ibn Anas_ (radīAllāhu anhu) zu lernen. Noch bevor er nach Madinah reiste, lieh er sich das zu dieser Zeit sehr angesehene Hadith-Werk von Imām Mālik namens _al-Muwatt__ā_ aus und lernte es auswendig. Er konnte es Imām Mālik in Madinah dann auch in nur einigen Tagen vollständig aus dem Gedächtnis vortragen.
+
+Imām Malik sagte damals zu dem jungen Imām ash-Shāfi'ī:
+"Oh Muhammad, fürchte ALLĀH und vermeide Sünden, weil du einen hohen Rang erreichen wirst!" und in einer anderen Version "ALLĀH hat ein Licht in dein Herz eingegeben. Lösche es nicht mit Sünden aus!"
+
+Imām ash-Shāfi'ī lernte in Madinah von Imām Mālik bis dieser im Jahre 179 n.H. verstarb.
+
+### 29 Jahre - 179 n.H. - Jemen
+
+Nach dem Ableben von Imām Mālik (rahimahullāh) reiste Imām ash-Shāfi'ī nach Jemen, in erster Linie wegen einer Stelle als Richter, und blieb dann für fünf Jahre dort.
+
+Aufgrund der Gerechtigkeit in seinen Urteilen machte er sich jedoch Feinde. Man erwartete nämlich von ihm, dass er seine Urteile bei Bedarf auch "verbiegen" lassen würde. Deswegen ließ der politische Vertreter von Jemen, der wegen seiner Ungerechtigkeit bekannt war und von Imām ash-Shāfi'ī auch deswegen öffentlich kritisiert wurde, dem Kalifen in Baghdād eine Nachricht voller Lügen zukommen:
+Imām ash-Shāfi'ī sei von den Schī'ah und würde entsprechende Irrlehren verbreiten. Ein Gerücht, das scheinbar aufgrund der besonderen Abstammung des Imāms leichter zum Abkaufen war. Er schrieb Dinge wie: "Mit seiner Zunge schafft er das, was ein Krieger mit seinem Schwert nicht schaffen könnte."
+
+### 34 Jahre - 184 n.H. - Baghdād
+
+Im Jahre 184 n.H., als Imām ash-Shāfi'ī 34 Jahre alt war, wurde er vor den Kalifen _Harūn ar-Rashīd _nach Baghdād (Irāq) gebracht. Es gab noch acht Andere, die mit ihm gemeinsam nach Baghdād gebracht wurden, aber diese wurden dann alle ausnahmslos exekutiert.
+
+Dort lernte er den großen Hanafi-Gelehrten und direkten Schüler von Imām Abū Hanīfah kennen, nämlich _Imām Muhammad Ibn al-Hasan ash-Shaybānī_ (radīAllāhu anh). Als Imām ash-Shāfi'ī vor den Kalifen gebracht wurde, setzte sich Imām Muhammad für ihn ein und bewahrte Imām ash-Shāfi'ī, mit ALLĀHs Erlaubnis, vor Schlimmerem. Dies war aufgrund des hohen Ansehens von Imām Muhammad in Baghdād möglich.
+
+Baghdād war damals genauso ein Zentrum des Wissens. Daher profitierte Imām ash-Shāfi'ī von dem vielen Austauschen und Debattieren mit Imām Muhammad außerordentlich viel. Imām Muhammad erteilte Imām ash-Shāfi'ī sogar eine Lehrbefugnis für die "Kamelladung an Büchern", die er ihm von dem Fiqh der Leute aus Irāq zukommen ließ.
+
+[Ein interessanter Punkt, den einer meiner Lehrer zu diesen Debatten nannte: Wenn man in den Hanafi-Werken über diese Debatten liest, erscheint es einem so so als hätte Imām Muhammad bei diesen Debatten Imām ash-Shāfi'ī "stets gezeigt, wo es langgeht", aber liest man in den Shāfi'ī-Werken darüber, wird das genaue Gegenteil vermittelt.]
+
+Im Jahre 189 n.H. verstarb Imām Muhammad (rahimahullāh) nach fünf Jahren Freundschaft mit Imām ash-Shāfi'ī.
+
+### 39 Jahre - 189 n.H. - Zurück nach Makkah
+
+Nach dem Ableben von Imām Muhammad reiste Imām ash-Shāfi'ī zurück nach Makkah, wo er zum ersten Mal die Möglichkeit hatte, regelmäßige Unterrichte in der Masjid al-Haram abzuhalten.
+
+Seine Unterrichte zeichneten sich durch folgendes Alleinstellungsmerkmal aus:
+
+**Er kombinierte zwischen den beiden Fiqh-Denkschulen der damaligen Zeit - Ahlul Hadīth und Ahlur Ra'i**.
+
+#### Ahlul Hadīth und Ahlur Ra'i
+
+Die Gelehrten der damaligen Zeit spalteten sich in zwei Fiqh-Denkschulen, über die ein wenig gesprochen werden muss. So wird die Rolle, die Imām ash-Shāfi'ī in dieser Zeit gespielt hat, inshāAllāh noch klarer.
+
+Auf der einen Seite gab es die Gelehrten, die spezialisiert darin waren, authentische Ahādīth zu überliefern, mit dem entsprechenden Wissen über Überlieferer, dem Einstufen der Authentizitäten und dergleichen.
+
+Sie wurden daher als **Leute der Überlieferung** bezeichnet. Diese Seite wurde damals hauptsächlich von Imām Mālik und seinen Schülern repräsentiert - sprich den Gelehrten des Hijāz.
+
+Auf der anderen Seite gab es die Gelehrten, die ihren Fiqh besonders auf dem Verstand begründeten. Sie konnten daher Informationen aus den Offenbarungstexten beziehen, die entsprechende Denkarbeit erforderten. Die Rede ist daher besonders von rationalen Techniken wie dem Analogieschluss (Qiyās). Sie waren außerdem sehr bekannt dafür "Was wäre, wenn..."-Szenarien aufzustellen und dann die entsprechenden Fiqh-Urteile abzuleiten.
+
+Man nannte sie **Leute der Meinung**. ["Meinung" natürlich nicht im Sinne von "Bauchgefühl" oder dergleichen.] Sie wurden damals primär von Imām Abū Hanīfah und seinen Schülern repräsentiert - sprich den Gelehrten des Irāq.
+
+Das war nur ein kurzer Ausschnitt, damit das Nachfolgende besser verstanden werden kann. Man könnte das Thema noch länger und genauer ausführen, aber hier geht es ja um etwas (bzw. jemand) anderes.
+
+#### Zurück zu Imām ash-Shāfi'ī
+
+Indem Imām ash-Shāfi'ī in seinen Unterrichten ausgiebig Ahādīth zitierte, wie es damals nur von Ahlul Hadith bekannt war, aber dann auch Informationen aus diesen ableitete und Analogieschlüsse aufstellte, wie es damals nur von Ahlur Ra'i bekannt war, kombinierte er die beiden Denkschulen.
+
+In seiner Zeit in Makkah traf Imām ash-Shāfi'ī später auch _Imām Ahmad Ibn Hanbal_ (radīAllāhu anhu), der wegen der Hajj nach Makkah kam. Dieser begann an den Unterrichten von Imām ash-Shāfi'ī teilzunehmen und war sehr beeindruckt von diesen. Als einer der Gefährten von Imām Ahmad ihn darauf ansprach, wieso er anstelle der Unterrichte von Sufyān Ibn Uyaynah die Unterrichte von Imām ash-Shāfi'ī besuchte, sagte Imām Ahmad:
+
+"Wenn du ein paar Ahādīth von Sufyān Ibn Uyaynah verpassen würdest, die nur eine sehr kurze Kette zum Propheten (ﷺ) haben, so würdest du keinen großen Schaden in deinem Din oder deinem Verstand davontragen. Aber wenn du verpassen würdest, was dieser junge Mann hier unterrichtet, so befürchte ich, wirst du bis zum jüngsten Tag nichts ähnliches finden können.
+Ich habe noch nie jemanden gesehen, der ein besseres Verständnis von dem Buche ALLĀHs hat als dieser junge Mann der Quraysch."
+
+[Große Gelehrte nahmen an den Unterrichten von Sufyān Ibn Uyaynah teil, weil dieser aufgrund seines hohen Alters viele Ahādīth von den Tābi'īn überliefern konnte und daher als regelrechte Hadith-Schatzkammer galt. Man ging auch zu ihm um einen bereits bekannten Hadith einfach mit einer kürzeren Überlieferungskette zu bekommen, weil ein Hadith mit einer kürzeren Kette verlässlicher ist als einer mit einer längeren Kette. Imām Ahmad konnte es sich daher leisten, die Unterrichte von Imām ash-Shāfi'ī diesen vorzuziehen.]
+
+### 45 Jahre - 195 n.H. - Zurück nach Baghdād
+
+Als Imām ash-Shāfi'ī im weiteren Verlauf seines Lebens nach Baghdād zurückkehrte, war er dort erstmals als Gelehrter bekannt und begann auch dort mit seinen eigenen regelmäßigen Unterrichten.
+
+Den Geschichtsbüchern zufolge gab es zu Beginn in der dortigen großen Moschee rund 20 regelmäßige Unterrichte von Ahlur Ra'i, die sich mit der Zeit auf nur noch zwei oder drei verringerten, weil sich so viele durch die Unterrichte von Imām ash-Shāfi'ī angezogen fühlten.
+
+#### Die alte Madhhab (_Qawl Qadīm_)
+
+Zu dieser Zeit entwickelte sich auch, was später als seine "alte Madhhab" bekannt wurde. Also seine damaligen Meinungen im Fiqh und seine damaligen Methoden um Fiqh-Urteile abzuleiten (_Usūl al-Fiqh_).
+
+Bücher, die seine alte Madhhab repräsentieren, waren beispielsweise folgende:
+
+* _al-Hujjah_: Ein Werk, welches uns nicht erreicht hat. Es behandelte Fiqh und primär Widerlegungen von Ahlur Ra'i.
+* _ar-Ris_ā_lah_: Ein Werk, welches seinen Usūl al-Fiqh detailliert erklärte.
+
+Aus seinen damaligen Werken wurde seine Kombination aus Ahlul Hadith und Ahlur Ra'i sehr deutlich.
+
+#### Die Kodifizierung von Usūl al-Fiqh
+
+Eine weitere wichtige Rolle, die Imām ash-Shāfi'ī im Wissen spielte, war es, dass er als Erster galt, der Usūl al-Fiqh schriftlich festhielt und detaillierter diskutierte.
+
+Es wäre jedoch falsch zu behaupten, er hätte Usūl al-Fiqh erfunden, weil die Gelehrten schon vorher mit ihren jeweiligen Methoden Fiqh-Urteile ableiteten. Ihm war es wichtig, um noch präziser arbeiten zu können, eben diese (nennen wir sie einfach mal) Kochrezepte schriftlich festzuhalten und zu erweitern - das Ganze einfach logisch zu systematisieren, damit möglichst keine Fehler gemacht werden.
+
+[Ich vergleiche Usūl al-Fiqh gerne mit Mathe, damit klar wird, dass wir hier nicht von einer Wissenschaft des Bauchgefühls reden, sondern von klaren Vorgehensweisen und Regeln. Somit wird das Ergebnis, mit ALLĀHs Erlaubnis, umso genauer und frei von Einflüssen außerhalb der Logik (wie zum Beispiel persönlichen Neigungen).]
+
+Imām Ahmad Ibn Hanbal sagte: "Bevor Imām ash-Shāfi'ī erschien, dachten wir nie an Dinge wie das Allgemeine (al-Ām) und das Spezifische (al-Khāss)."
+
+[Aussagen der Offenbarungstexte werden darin unterteilt, ob sie allgemein formuliert wurden ("Jeder Muslim muss ...") oder ob sie eingeschränkt bzw. spezifiert wurden ("Jeder Muslim, welcher ..., muss ..."). Was vielleicht auf den ersten Blick etwas überflüssig erscheint, spielt jedoch im Fiqh eine wichtige Rolle. Man lernt auf diese Dinge zu achten und in seinen Urteilen dann entsprechend widerzuspiegeln.]
+
+#### _Nāsir as-Sunnah_
+
+In Baghdād waren auch einige Gelehrte von Ahlul Hadith vertreten, die immer wieder in Debatten mit Ahlur Ra'i kamen. Weil die Gelehrten von Ahlur Ra'i jedoch talentierter darin waren, ihre Begründungen auf eine überzeugende Weise logisch fundiert darzulegen, war es schwierig für Ahlul Hadith sich mit Ahlur Ra'i zu messen, obwohl es auch vorkam, dass Ahlur Ra'i den Ahādīth widersprachen, die bei Ahlul Hadith waren.
+
+Als jedoch Imām ash-Shāfi'ī nach Baghdād kam, mit seiner bereits erwähnten Kombination aus beiden Denkschulen, gelang es ihnen dann doch, sich mit Ahlur Ra'i zu messen. Das verschaffte ihm dann auch den Titel _Nāsir as-Sunnah_ - derjenige, der der Sunnah zum Sieg verhalf.
+
+[An dieser Stelle wichtig zu erwähnen: Es geht hier nicht darum, eine Seite als klare Vertreter der prophetischen Sunnah (ﷺ) und die andere Seite als Widersacher dieser darzulegen. Es ist nur schwer, die Tiefen dieses komplexen Themas kurz und knapp zu beschreiben; besonders, weil ich das Wissen dafür einfach nicht habe.]
+
+### 49 Jahre - 199 n.H. - Ägypten
+
+Im Jahre 199 n.H. reiste der Imām dann nach Ägypten, hauptsächlich wegen der politischen Probleme in Baghdād: Die Verfolgung durch die Mu'tazilah. Die Bid'ah der Sekte der Mu'tazilah wurde sogar von dem Kalifen Harūn ar-Rashīd selbst vertreten und mit Gewalt verteidigt, also mit entsprechender Werbung und Druck und allem drum und dran. Die Situation in Baghdād spitzten sich daher entsprechend an.
+
+Der Kalif wollte Imām ash-Shāfi'ī sogar "kaufen", indem er ihm eine sehr gut bezahlte Stelle als oberster Richter von Baghdād anbietete, aber der Imām lehnte ab. Wie diese Geschichte genau verlief, gehört zu den wichtigsten Teilen des Lebens von Imām Ahmad Ibn Hanbal (radīAllāhu anhu) - dem Imām der Sunnah.
+
+Ein weiterer Grund, wieso Imām ash-Shāfi'ī nach Ägypten reiste, war das Erbe von dem Großgelehrten _al-Layth Ibn Sa'd_ (radīAllāhu anh). Obwohl dieser zu diesem Zeitpunkt bereits verstorben war (rahimahullāh), konnte Imām ash-Shāfi'ī noch von seinen Schülern profitieren.
+
+Imām ash-Shāfi'ī pflegte später sogar zu sagen, dass al-Layth Ibn Sa'd im Fiqh stärker war als Imām Mālik! Dennoch starb seine Madhhab aufgrund mangelnder Schüler aus, aber wurde zumindest im Fiqh von Imām ash-Shāfi'ī aufgenommen.
+
+#### Die neue Madhhab (_Qawl Jadīd_)
+
+Mit dem neuen Wissen, welches er von den Gelehrten in Ägypten erlangte, korrigierte er dann auch sowohl seinen Fiqh als auch seinen Usūl al-Fiqh. So bekam die Gesamtheit seiner vorausgehenden Ansichten und Methoden den Titel "alte Madhhab" (_Qawl Qadīm_) und die Gesamtheit seiner neuen Ansichten und Methoden den Titel "neue Madhhab" (_Qawl Jadīd_).
+
+Seine neue Madhhab stellte jedoch keinen absoluten Neustart dar. Daher war sein altes Werk ar-Risālah, welches ursprünglich entsprechend seiner alten Madhhab verfasst wurde, immer noch repräsentativ für seinen Usūl al-Fiqh, weil er es später nur entsprechend seiner neuen Madhhab korrigieren und nicht gleich ein ganz neues Werk verfassen musste.
+
+Imām ash-Shāfi'ī sagte sich von seinen alten Ansichten sogar klar los und verbot es, dass man ihm in diesen alten Ansichten weiterfolgt!
+
+Im Shāfi'ī Madhhab werden deswegen generell die Meinungen seiner neuen Madhhab bevorzugt, bis auf rund 20 Themen, in denen die Meinungen seiner alten Madhhab aufgrund der stärkeren Beweise vorgezogen wurden. (Näheres zu diesem Thema gibt es [hier](https://shafiimadhhab.wordpress.com/2018/10/13/qawl-qadim-und-qawl-jadid/).)
+
+Bücher, die seine neue Madhhab repräsentieren, sind beispielsweise folgende:
+
+* _ar-Ris__ā__lah_: Eine aktualisierte Version des alten Werks.
+* _al-Umm_: Ein reines Fiqh-Buch wie wir sie heute kennen.
+
+Über eines seiner wichtigsten Werke _ar-Risālah _sagte er, nachdem er es über hunderte Male gelesen und überarbeitet hatte: "Nur ALLAHs Buch ist perfekt und frei von Fehlern!"
+
+Imām al-Muzanī sagte: "Ich habe über fünfzig Jahre die Risālah von ash-Shāfi'ī studiert und ich kann mich an kein einziges Mal erinnern an dem ich nicht einen neuen Nutzen daraus ziehen konnte."
+
+#### Seine größten Schüler
+
+Die stärksten und wichtigsten Schüler seiner neuen Madhhab waren die folgenden:
+
+* _Im__ā__m___Ism___ā___'___īl Ibn Yahya__al-Muzan__ī _(radīAllāhu anhu)
+* _Im__ā__m__Yūsuf Ibn Yahya_ _al-Buwayt__ī_ (radīAllāhu anhu)
+* _Im__ā__m ar-Rabī' Ibn Sulaym__ā__n___al-Mur___ā___d___ī_(radīAllāhu anhu)
+
+Man sagt, dass es ohne diese drei großen Persönlichkeiten keinen Shāfi'ī Madhhab geben würde. Genaueres hierzu folgt im nächsten Beitrag inshāAllāh. Diese spielen nämlich eine sehr wichtige Rolle in der späteren Entwicklung der ausgereiften Madhhab wie wir sie heute haben.
+
+### 54 Jahre - 204 n.H. - Tod
+
+Imām Muhammad Ibn Idrīs ash-Shāfi'ī (rahimahullāh) verstarb im Alter von 54 Jahren in Ägypten und wurde in Kairo begraben.
+
+### Schlusswort
+
+Mit dieser kurzen Einführung zum Imām selbst kann in den nachfolgenden Beiträgen nun die Entwicklung seiner Madhhab nach seinem Ableben behandelt werden.
+
+Meiner Meinung nach bleibt dann auch kein Zweifel mehr darüber übrig, dass der Shāfi'ī Madhhab, mit all seinen Urteilen, eine solide Quelle für Fiqh darstellt.

@@ -1,0 +1,105 @@
+---
+postslug: ""
+posted: 2019-02-27T07:43:09Z
+published: false
+title: "Beschreibung des Gebets - (5/6) Sujūd"
+categories: ["Gebet"]
+tags: []
+excerpt: "    * Takbir vor dem Sujud    * Wie man sich mindestens niederwerfen muss    * Empfohlene Art, sich..."
+---
+
+#### Inhaltsverzeichnis:
+
+1. Sujud
+    * Takbir vor dem Sujud
+    * Wie man sich mindestens niederwerfen muss
+    * Empfohlene Art, sich niederzuwerfen
+    * Dhikr während des Sujud
+    * Ruhen im Sujud
+2. Sitzen zwischen den Sajdatayn
+    * Wie man mindestens sitzen muss
+    * Empfohlene Art, zu sitzen
+    * Takbir vor dem Sitzen
+    * Dhikr während des Sitzens
+    * Kurze Säule
+
+### 1\. Sujud
+
+#### 1a. Takbir vor dem Sujud
+
+Man spricht den Takbir vom Anfang der Bewegung bis zum Ende, wenn man den Sujud erreicht. Diese allgemeine Regel gilt sowohl für den ersten als auch den zweiten Sujud.
+
+Außerdem wäre es empfohlen, zuerst mit den Knien in den ersten Sujud herunter zu gehen, sodass zuerst die Knie den Boden berühren, anschließend die Hände und dann der Kopf.
+
+#### 1b. **Wie man sich mindestens niederwerfen muss**
+
+Mindestens ein kleiner Teil der folgenden Bereiche muss den Boden berühren:
+
+1. Stirn
+2. Unterseite eines Fingers beider Hände
+3. Unterseite eines Zehs beider Füße
+4. beide Knie
+
+Nur die Stirn muss bei der Niederwerfung unbedeckt sein!
+
+Außerdem darf die Stirn nicht auf Dingen aufliegen, die mit der Person verbunden sind und gewissermaßen sich mit ihr mitbewegen. Das heißt, dass beispielsweise jemand mit einem sehr großen Umhang keine gültige Niederwerfung vollzieht, wenn er sich auf seinen Ärmel niederwirft. Gewöhnliche Gebetsmützen sollten kein Problem darstellen, weil normalerweise trotzdem zumindest ein kleiner Teil der Stirn den Boden berühren kann.
+
+Ein weiterer wichtiger Punkt bezüglich der Stirn bzw. des Kopfes: Das alleinige Berühren des Bodens reicht nicht, sondern der Boden muss auch gewissermaßen das Gewicht des Kopfes tragen. Das heißt nicht, dass man irgendwie drücken muss, sondern dass der Kopf mit einer normalen Kraft aufliegt. Die Gelehrten sprechen von einer Kraft, die Baumwolle unter der Stirn zerdrücken könnte.
+
+Außerdem darf der Kopf dabei nicht höher sein als das Gesäß, wie wenn man sich auf einer Steigung niederwirft, weil man dann kaum von einer Niederwerfung reden könnte.
+
+Die **Nase**muss nicht den Boden berühren, auch wenn es empfohlen wäre.
+
+#### 1c. **Empfohlene Art, sich niederzuwerfen**
+
+Die Hände werden direkt unter den Schultern in Richtung Qiblah platziert und die Finger werden zusammengehalten. Die Hände sollten unbedeckt sein.
+
+**Männer** halten ihre Ellenbogen seitlich von ihrem Körper weg. Sie sollten auch einen Abstand zwischen ihren Bäuchen und ihren Oberschenkeln einhalten. #Zwischen den Füßen und den Knien wäre der Abstand einer Handspanne (rund 23 cm) einzuhalten.
+
+**Frauen** sollten sich im Gebet hingegen möglichst nicht ausbreiten. Sie halten ihre Ellenbogen und Oberschenkel möglichst nah am Körper, und ihre Füße und Knie zusammen.
+
+#### 1d. Dhikr während des Sujud
+
+Das Sagen von „_Subhāna rabbiyal-A'laa_“ (ungefähr: "_Mein gewaltiger Herr ist erhaben über Mängel_") wäre empfohlen, wobei
+
+* das einmalige Sagen Asl as-Sunnah erfüllen würde,
+* dreimaliges Wiederholen die Sunnah vollständig erfüllen würde und
+* den Dhikr bis zu elfmal zu wiederholen zusätzlich empfohlen wäre.
+
+Eine ungerade Anzahl wäre allgemein besser.
+
+#### 1e. Ruhen im Sujud
+
+Wie bereits im Abschnitt über den Ruku erklärt wurde, wäre auch hier ein verbleiben verpflichtend, das mindestens so lange dauert, wie dauern würde, "_Subh_ā_nAll_ā_h_" zu sagen.
+
+### 2\. Sitzen zwischen den Sajdatayn
+
+#### 2a. Wie man mindestens sitzen muss
+
+Jede Methode zu sitzen, wäre gültig. Daher wäre theoretisch auch der Schneidersitz möglich.
+
+Das Genannte gilt auch für das Sitzen für den nicht-letzten und letzten Tashahhud.
+
+#### 2b. Empfohlene Art, zu sitzen
+
+Die empfohlene Art zu sitzen, wäre der Iftirash...
+
+Die Händ werden auf den Oberschenkeln, angrenzend an den Knien, gelegt.
+
+#### 2c. Takbir vor dem Sitzen
+
+Der Takbir wird ab dem Verlassen des Sujud aufgesagt und verlängert bis man das Sitzen vollständig erreicht hat.
+
+#### 2d. Dhikr während des Sitzens
+
+Es wäre empfohlen, folgende Du'a aufzusagen.
+
+**اللَّهُمَّ اغْفِرْلِي، وَارْحَمْنِي، وَعَافِنِي، وَاجْبُرْنِي، وَاهْدِنِي، وَارْزُقْنِي**
+
+_Allāhumma ghfirlī, warhamnī, wa ‚āfinī, wajburnī, wahdinī, warzuqnī._
+
+_„Oh ALLAH, vergib mir, lass mir Rahmah zuteilwerden, entschuldige mich, verbessere mich, leite mich und versorge mich.“_
+
+#### 2e. Kurze Säule
+
+Wie bereits erwähnt wurde, handelt es sich bei dem Sitzen zwischen den Sajdatayn um eine sogenannte kurze Säule. Man darf nicht länger darin bleiben als das Aufsagen des Mindest-Tashahhud dauern würde. Dieser wird im nächsten Beitrag behandelt.

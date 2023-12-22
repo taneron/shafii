@@ -8,7 +8,7 @@ import type { CollectionEntry } from "astro:content";
 import { slugifyStr } from "@utils/slugify";
 
 export interface Props {
-  post: CollectionEntry<"blog">;
+  post: CollectionEntry<"posts">;
 }
 
 const { post } = Astro.props;
@@ -23,6 +23,8 @@ const ogUrl = new URL(
   ogImageUrl ?? `/posts/${slugifyStr(title)}.png`,
   Astro.url.origin
 ).href;
+
+const einleitung: boolean = true;
 ---
 
 <Layout
@@ -42,11 +44,29 @@ const ogUrl = new URL(
         ><path
           d="M13.293 6.293 7.586 12l5.707 5.707 1.414-1.414L10.414 12l4.293-4.293z"
         ></path>
-      </svg><span>Go back</span>
+      </svg><span>Zurück</span>
     </button>
   </div>
   <main id="main-content">
     <h1 transition:name={slugifyStr(title)} class="post-title">{title}</h1>
+
+    {
+      einleitung && (
+        <>
+          <h2>
+            Bismillāhir-rahmānir-rahīm. Al-hamdu lillāhi rabbil-ālamīn.
+            Was-salātu was-salāmu alā rasūlinā muhammad, wa alā ālihi wa sahbihi
+            ajma’īn
+          </h2>
+          <br />
+          <p>
+            In Deinem Namen lernen wir diese Dinge und nur Dir gegenüber müssen
+            wir uns am Ende rechtfertigen.
+          </p>
+        </>
+      )
+    }
+
     <Datetime datetime={pubDatetime} size="lg" className="my-2" />
     <article id="article" role="article" class="prose mx-auto mt-8 max-w-3xl">
       <Content />

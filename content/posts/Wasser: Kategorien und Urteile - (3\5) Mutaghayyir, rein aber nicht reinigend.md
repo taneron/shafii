@@ -1,0 +1,72 @@
+---
+postslug: ""
+posted: 2021-02-21T15:48:29Z
+published: false
+title: "Wasser: Kategorien und Urteile - (3/5) Mutaghayyir, rein aber nicht reinigend"
+categories: ["Allgemein"]
+tags: []
+excerpt: "_Wasser _ist nicht mehr rituell reinigend_, sobald es sich durch eine rituell reine Substanz nicht ..."
+---
+
+_Wasser _ist nicht mehr rituell reinigend_, sobald es sich durch eine rituell reine Substanz nicht nur leicht, sondern so stark verändert, dass man es nicht mehr einfach nur als '_Wasser_' bezeichnen würde._
+
+#### 3a. Allgemeines
+
+Wenn von einer Veränderung die Rede ist, dann meint man damit im Fiqh Änderungen im Bezug auf den Geruch, die Farbe und den Geschmack. Also einfach wahrnehmbare Veränderungen.
+
+Würde man beispielsweise einen Teebeutel in tahūr Wasser einlegen und dadurch das Wasser nach kurzer Zeit in seiner Farbe, seinem Geruch oder seinem Geschmack verändern, so dass man von "Wasser mit leichtem Teegeschmack" oder dergleichen reden würde, dann wäre das Wasser noch tahūr. Sollte die Veränderung jedoch noch stärker werden, so dass man nicht mehr von Wasser, sondern klar von "Tee" reden würde, dann wäre es jedoch nicht mehr tahūr. Es dann einfach nur als "Wasser" zu bezeichnen, wäre nämlich schlicht und einfach falsch.
+
+Wenn man Wasser hat, das sich nur in einem Bereich stark verändert hat, aber in einem anderen Bereich nicht, dann wäre der Bereich, der nicht stark verändert wurde, natürlich noch tahūr. Das Urteil erstreckt sich also nicht auf das ganze Wasser.
+
+#### 3b. Unvermeidbare Veränderungen
+
+Die Gelehrten nennen einige Arten von schwer vermeidbaren Veränderungen bei denen Wasser noch tahūr bleiben würde.
+
+Beispiele:
+
+* Wasser in einem Metallcontainer, das durch den Rost langsam braun bzw. gelb wird.
+* Wasser, das sich durch am Boden wachsende Algen oder hineinfallende Blätter verändert.
+* Wasser, welches sich durch seine Nähe zu duftenden Ölen oder Pflanzen verändert.
+* Meerwasser trotz des starken salzigen Geschmackes.
+* Wasser, das durch umgebende Erde vertrübt.
+
+Diese Art von Veränderungen jedoch absichtlich zu verursachen, indem man beispielsweise Blätter in das Wasser wirft, wäre jedoch nicht unvermeidbar und somit auch nicht mehr entschuldigt. Das bedeudet, das Wasser würde dann nicht mehr tahūr sein, auch wenn es rein äußerlich betrachtet nicht unterscheidbar von dem unabsichtlich verändertem Wasser wäre.
+
+Was Meeressalz oder (tayammum-konforme) Erde angeht, so wäre es jedoch möglich, diese absichtlich in das Wasser zu tun, ohne dass das Wasser dann nicht mehr tahūr sein würde. Die Gelehrten erklären das damit, dass Meersalz ohnehin aus tahūr Wasser entstammt und (tayammum-konforme) Erde auch tahūr ist. Man würde also praktisch nur tahūr mit tahūr mischen.
+
+Würden Früchte oder Blumen von selbst in das Wasser fallen und es stark verändern, so sagen die Gelehrten, dass solche Veränderungen nicht entschuldigt wären, weil das normalerweise nicht schwer zu vermeiden ist. Es wird also nicht nur darauf geschaut, was in einer bestimmten Situation schwer zu vermeiden ist, sondern auf das, was **normalerweise** schwer zu vermeiden ist.
+
+Würde man normales tahūr Wasser mit einem Wasser mischen, das durch eine der oben genannten schwer vermeidbaren Situationen stark verändert wurde, so wäre die Mischung auch noch tahūr.
+
+#### 3c. Nur zerfallende und sich mischende Substanzen
+
+Nur Veränderungen, die durch eine zerfallende und sich mit dem Wasser mischende Substanz zustande kommen, würden tahūr Wasser zu tāhir Wasser werden lassen. Sollte man also ein Stück Holz in einen Eimer mit tahūr Wasser legen, so würde das Wasser dadurch nicht zu tāhir Wasser werden können, auch wenn es sich (zwar unwahrscheinlich, aber mal theoretisch angenommen) stark verändern würde. Das Gleiche gilt auch bei Substanzen wie beispielsweise Öl.
+
+Die Substanz müsste zerfallen und sich im Wasser auflösen, um das Wasser tāhir statt tahūr zu machen, und dürfte nicht noch visuell klar vom Wasser unterscheidbar sein, wie bei einem Stück Holz oder Öl. Eine Substanz wie beispielsweise Zucker wäre ein gegenteiliges Beispiel und könnte tahūr Wasser sehr wohl tāhir machen.
+
+#### 3d. Abwägen von nicht erkennbaren Veränderungen
+
+Wenn tahūr Wasser sich mit einer rituell reinen Flüssigkeit mischen sollte, die in ihren Eigenschaften praktisch identisch mit Wasser ist und somit keine Veränderungen im Wasser hervorrufen kann, könnte theoretisch auch nicht festgestellt werden, ob eine starke Veränderung zustande kam.
+
+Man macht Folgendes: Man geht davon aus, dass die Flüssigkeit stattdessen in ihren drei Eigenschaften durchschnittlich ausgeprägt ist, und geht dann danach, ob sich das tahūr Wasser so beim Mischen stark genug verändert hätte.
+
+Beispiele für Flüssigkeiten mit durchschnittlich ausgeprägten Eigenschaften wären Granatapfelsaft für den Geschmack, Weihrauch für den Geruch und Orangensaft für die Farbe.
+
+Das Abwägen wäre hier nicht verpflichtend, sondern lediglich empfohlen. Solange man sich nicht sicher ist, dass das Wasser sich in diesem Fall stark genug verändert hätte, könnte man also (auch ohne es abzuwägen) davon ausgehen, dass das Wasser noch tahūr ist. Zum Abwägen müsste man auch nicht einmal einen richtigen Test durchführen. Man könnte es sich auch einfach durchdenken.
+
+#### 3e. Veränderung rückgängig machen
+
+Wenn die Veränderung des Wasser so weit verschwinden würde, dass man es wieder (wie zuvor) einfach nur als Wasser bezeichnen würde, dann wäre es auch wieder tahūr. Das könnte durch beispielsweise Filtervorgänge oder das Mischen mit anderem Wasser erreicht werden. Hauptsache der ursprungliche Zustand wird wiederhergestellt.
+
+#### 3f. Angelegenheiten bez. Sicherheit und Zweifel
+
+Sollte man sich nicht sicher sein, ob tahūr Wasser zu verändertem Wasser wurde, geht man davon aus, dass es noch tahūr ist. Zum Beispiel in den folgenden Situationen:
+
+* Man ist sich nicht sicher, ob die Veränderung stark genug ist.
+* Man ist sich bei dem Abwägen von nicht erkennbaren Veränderungen (mit Test oder ohne Test) nicht sicher, ob eine starke Veränderung zustande gekommen wäre.
+* Man ist sich nicht sicher, ob eine starke Veränderung auf eine Substanz zurück zu führen ist, die zerfällt und sich mit dem Wasser mischt, oder nicht.
+* Man ist sich nicht sicher, ob eine starke Veränderung auf etwas zurück zu führen ist, das generell schwer zu vermeiden und somit entschuldigt ist.
+
+Wenn man stark verändertes Wasser wieder zu tahūr Wasser machen wollen, indem man beispielsweise unverändertes Wasser hineingibt, dann würde es nicht reichen, wenn man sich nicht sicher ist, ob die Veränderung noch stark ist. Die Veränderung müsste mit Sicherheit nicht stark genug sein. Der Grund hierfür ist, dass die Gewissheit dann nicht bei tahūr, sondern bei tāhir liegt, und das worüber man sich sicher war, nicht durch Zweifel aufgehoben werden kann.
+
+Sollte man einen empfohlenen oder verpflichtenden Wudu oder Ghusl vollziehen wollen und man hätte nur **zwei Behälter** von denen einer mit Sicherheit eine rituell reine Flüssigkeit beinhaltet, die nur aussieht wie Wasser, ohne zu wissen, welcher Behälter welches Wasser beinhaltet, dann würde man einfach mit beiden Wassern je einen Wudu bzw. Ghusl vollziehen, um auf der sichereren Seite zu sein.

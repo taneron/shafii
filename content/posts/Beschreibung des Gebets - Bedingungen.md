@@ -1,0 +1,81 @@
+---
+postslug: ""
+posted: 2021-05-12T03:08:20Z
+published: false
+title: "Beschreibung des Gebets - Bedingungen"
+categories: ["Gebet"]
+tags: []
+excerpt: "Die Bedingungen des Gebets stellen die Dinge dar, die zwar keinen Bestandteil des Gebets selbst dar..."
+---
+
+Die Bedingungen des Gebets stellen die Dinge dar, die zwar keinen Bestandteil des Gebets selbst darstellen, aber dennoch für die Gültigkeit des Gebets vom Anfang bis zum Ende notwendig sind.
+
+1. Islam
+2. Tamyiz
+3. Kenntnis darüber, dass die Zeit des Gebets eingetroffen ist
+4. Taharah im Bezug auf Wudu und Ghusl
+5. Taharah im Bezug auf unentschuldigte rituelle Unreinheiten auf dem Körper, der Kleidung und den im Gebet berührten Stellen des Gebetsortes
+6. Bedecken der Gebets-'Awrah
+7. Genaue Ausrichtung zur Qiblah
+
+Fiqh al-Ibadat: Seite 103 - 111
+
+#### 1\. Abwesenheit des kleinen und großen Hadaths
+
+Das Gebet ist grundsätzlich nur gültig, wenn der kleine Hadath durch den Wudu und der große Hadath durch den Ghusl behoben wurde.
+
+In einer entsprechenden Ausnahmesituation wäre selbstverständlich auch der Tayammum möglich, um beten zu können.
+
+Sollte der Tayammum jedoch auch nicht möglich sein, betet man einfach dennoch, aufgrund der Bedeutung der Gebetszeit, muss das Gebet jedoch später nachholen, wenn man die Möglichkeit zur rituellen Reinigung oder für den Tayammum wieder hat.
+[Sollte man sich in einer solchen Situation befinden und man wäre zusätzlich noch im Zustand der Janābah, dürfte man nur das Pflichtgebet verrichten und darin *nur die Surat al-Fatihah rezitieren, ohne eine andere Surah, weil nur für die Pflichthandlung aus dem Verbot der Rezitation ausgenommen werden kann.]
+
+Gebete, die in entsprechenden Ausnahmesituationen trotz kleinem oder großem Hadath und auch noch ohne Tayammum gebetet wurden, **müssen später nachgeholt werden**.
+
+#### 2\. Abwesenheit von rituellen Verunreinigungen, die nicht-entschuldigt sind
+
+(1) Die Kleidung, die man trägt, (2) der eigene Körper und (3) der Gebetsplatz an den Stellen, die man im Gebet direkt berührt, müssen also rituell rein sein, oder die jeweilige rituelle Verunreinigung muss zumindest entschuldigt sein.
+
+Gebete, die in entsprechenden Ausnahmesituationen trotz dieser rituellen nicht-entschuldigten Verunreinigungen gebetet wurden, **müssen später genauso nachgeholt werden**.
+[Also: Alles, was mit Taharah zu tun hat, und in Ausnahmefällen nicht eingehalten werden kann, führt dazu, dass man es trotzdem nachholen muss, weil die Taharah so wichtig ist.]
+
+#### 3\. Bedecken der 'Awrah
+
+Die 'Awrah der Person muss vollständig bedeckt sein, sodass die Farbe der Haut aus einer normalen Gesprächsdistanz nicht erkannt werden kann.
+[Mit der Lupe muss man also nicht unbedingt rangehen.]
+
+#Gebets-Awrah beider Geschlechter
+
+Das Genannte bezieht sich auch auf Gebete, die man in Dunkelheit verrichtet - auch wenn man alleine ist.
+
+Es wäre daher noch gültig, auch wenn man die Umrisse des Körpers erkennen könnte. Dass die Kleidung jedoch auch diese verbirgt, ist klar vorzuziehen, #weil sonst auch haram (sein kann). Das Genannte bezieht sich jedoch nur auf das Gebet.
+
+Sich öffentlich in sehr enger Kleidung sehen zu lassen, ist unzureichend und verboten. Die Kleidung von Männern kann zwar allgemein ein wenig enger sein als es bei Frauen möglich ist, aber das Genannte bezieht sich dennoch auf beide Geschlechter.
+
+Gebete, die in entsprechenden Ausnahmesituationen ohne vollständige Bedeckung der 'Awrah gebetet wurden, müssen später **nicht nachgeholt werden**.
+
+#### 4\. Ausrichten in Richtung der Qiblah
+
+Man muss sich für das Gebet laut dem Shafi'i Madhhab so genau wie möglich zur Qiblah ausrichten. Es wird kein Toleranz-Bereich als möglich angesehen.
+
+Der entscheidende Teil bei dieser Ausrichtung ist der Oberkörper bzw. die Brust der Person. Ob man sein Gesicht im Gebet, wieso auch immer, von der Qiblah abwendet, spielt daher im Bezug auf diese Bedingung keine Rolle.
+
+Gebete, die in entsprechenden Ausnahmesituationen ohne Ausrichtung zur Qiblah gebetet wurden, müssen später **nachgeholt werden**.
+
+#### 5\. Wissen, dass die Zeit eingetreten ist (bei zeitabhängigen Gebeten)
+
+Betet eine Person daher ein solches Gebet, ohne zu wissen, ob es in der richtigen Zeit war oder nicht, und es stellt sich später heraus, dass es doch die richtige Zeit war, ist ein solches Gebet dennoch als ungültig zu erachten.
+
+Dieses Wissen kann man durch eine der vier folgenden Methoden erlangen:
+
+1. Eigenes Wissen, entweder durch eine (kompetente) Sichtung oder einen Gebetszeitenkalender.
+2. Dem Befolgen des Wissens einer anderes Person, welche eine (kompetente) Sichtung vollzogen hat oder auf einen Gebetszeitenkalender geschaut hat.
+3. Ijtihad: Also man müht sich darin ab, mit ziemlicher Sicherheit zu ermitteln, ob die Gebetszeit eingetroffen ist. Diese Detektivarbeit kann anhand verschiedener Dinge vollzogen werden.
+4. Dem Befolgen des Ijtihads einer anderen Person.
+
+Die Reihenfolge muss eingehalten werden.
+
+Es ist nicht notwendig, dass man absolute Sicherheit darüber hat, weil es bereits reichen würde, wenn man sich ziemlich sicher ist.
+
+Für diese Bedingung des Gebets gibt es nicht wirklich eine Ausnahmesituation in der man absolut gar keine Ahnung hat, wann die jeweilige Zeit eingetroffen ist. Man ist gewöhnlich immer in der Lage zumindest anhand irgendwelcher Zeichen ungefähr die Gebetszeit zu deuten (Ijtihad zu machen). Ein solches Gebet müsste dann nur nachgeholt werden, wenn man sich später absolut sicher ist, dass man in der falschen Zeit gebetet hat.
+
+6\. Islam

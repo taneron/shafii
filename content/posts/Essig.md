@@ -1,0 +1,41 @@
+---
+postslug: ""
+posted: 2018-11-12T07:20:59Z
+published: false
+title: "Essig"
+categories: ["Allgemein"]
+tags: []
+excerpt: "In Deinem Namen lernen wir diese Dinge und nur Dir gegenüber müssen wir uns am Ende rechtfertigen.E..."
+---
+
+### Bismillāhir-rahmānir-rahīm
+
+In Deinem Namen lernen wir diese Dinge und nur Dir gegenüber müssen wir uns am Ende rechtfertigen.
+
+Es gibt Substanz, welche **in sich selbst najis** sind, und daher einfach als Najāsāt bezeichnen werden und dann gibt es noch Substanzen, welche **lediglich verunreinigt** wurden, aber in sich selbst nicht najis sind.
+
+Substanzen, welche verunreinigt wurden, können selbstverständlich wieder rein gemacht werden. Beispielsweise ein Pullover mit einem Blutfleck.
+
+Substanzen, welche in sich selbst najis sind, wie Blut oder Urin, kann man nicht rein machen. Es gibt jedoch zwei Ausnahmen:
+
+1. Ein Fell oder eine Haut, welche(s) gegerbt wurde.
+2. **Alkohol, der zu Essig umgewandlet wurde**.
+
+Im Nachfolgenden wird beschrieben, was es zu dieser Umwandlung von Alkohol zu Essig zu wissen gibt.
+
+## Bedingungen der Umwandlung
+
+Es gibt zwei Arten von Khamr:
+
+1. Befürworteter Khamr
+2. Verbotener Khamr
+
+Befürworteter Khamr ist Khamr, welcher für die Produktion von Essig verwendet wird, oder der Khamr einer nicht-muslimischen Gemeinschaft unter einer islamischen Regierung.
+
+Beide Arten können jedoch gültig in reinen Essig umgewandelt werden.
+
+Der Khamr darf keine Fremdsubstanz beinhalten, damit er als Essig dann rein ist. Substanzen, die schwierig zu vermeiden sind, sind jedoch entschuldigt.
+
+Wieso? Wenn man einen Stein in den (noch unreinen) Khamr gibt, wird dieser Stein verunreinigt. Wenn der Khamr sich später zu reinem Essig umwandelt, wird dieser reiner Essig von dem verunreinigten Stein gleich wieder unrein, weil alles außer der Oberfläche dieses Steins umgewandelt hat und rein geworden ist.
+
+Was ist mit den Wänden eines Behälters? Diese sind entschuldigt. Alles was zur Umwandlung absolut notwendig ist oder schwer zu vermeiden ist, ist entschuldigt. Das Reinwerfen eines Steins daher nicht. Dieser Behälter wird dann auch rein.

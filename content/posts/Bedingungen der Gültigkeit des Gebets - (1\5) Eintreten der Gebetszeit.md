@@ -1,0 +1,91 @@
+---
+postslug: ""
+posted: 0000-00-00T00:00:00Z
+published: false
+title: "Bedingungen der Gültigkeit des Gebets - (1/5) Eintreten der Gebetszeit"
+categories: ["Allgemein"]
+tags: []
+excerpt: "Es stellt eine Bedingung des Gebets dar, dass einerseits die Gebetszeit eingetroffen ist und man au..."
+---
+
+Es stellt eine Bedingung des Gebets dar, dass einerseits die Gebetszeit eingetroffen ist und man außerdem auch noch darüber Bescheid weiß. Das bedeutet, dass wenn man beispielsweise einfach so sein Gebet verrichtet, ohne irgendeine Ahnung gehabt zu haben, ob die Gebetszeit bereits eingetroffen ist, das Gebet sogar dann ungültig wäre, wenn man zufälligerweise zur richtigen Zeit gebetet hat.
+
+Diese Bedingung bezieht sich allgemein auf alle zeitgebundenen Gebete. Also neben den fünf Pflichtgebeten genauso Gebete wie zum Beispiel das Duha-Gebet, das Tarawih-Gebet und die Sunnah-Gebete vor und nach den Pflichtgebeten.
+
+Wenn man später mit Sicherheit herausfindet, dass man falsch lag und zur falschen Zeit gebetet hat, dann wäre das Gebet nachzuholen. Wenn man sich jedoch nicht sicher ist, dann nicht.
+:green_book: [Mughni al-Muhtaj; https://shamela.ws/book/11444/224#p1]
+
+Man spricht grundsätzlich von vier Methoden, Wissen über das Eintreten der Gebetszeit zu erlangen:
+
+1. Eigene Gewissheit
+2. Befolgen der Gewissheit einer vertrauenswürdigen Person
+3. Eigener Ijtihad (also dass man so gut es geht die Zeit einschätzt)
+4. Befolgen des Ijtihads einer vertrauenswürdigen Person
+
+* * *
+
+**Gewissheit **liegt vor, wenn eine Person die Zeichen der Gebetszeit wahrgenommen hat, wie den Sonnenuntergang oder die Veränderung der Schattenlängen.
+
+Der **Ijtihad **wäre in diesem Zusammenhang beispielsweise, wenn man zur Beginn der Fajr-Gebetszeit immer einen Hahn krähen hört oder wenn man nach Maghrib einen längeren Dhikr aufsagt und dann normalerweise immer zur 'Isha-Gebetszeit fertig wird. Man würde also die Zeit entsprechend bestimmter Zeichen unter die Lupe nehmen und einschätzen.
+
+Diese vier Methoden unterliegen einer bestimmten Hierarchie. Punkt 1 und 2 werden gewissermaßen als gleichwertig angesehen und müssen bevorzugt werden. Punkt 3 wäre nur erlaubt, wenn man keine Gewissheit über die Zeit erlangen kann; also weder Punkt 1 noch 2 möglich sind. Gleichermaßen wäre das Befolgen eines Ijtihads (Punkt 4) nur erlaubt, wenn man selbst keinen Ijtihad machen kann (Punkt 3), wie es auch bekannt aus dem Fiqh ist.
+
+Nicht dazu in der Lage zu sein, Gewissheit zu erlangen, bedeutet, dass zum Beispiel das Wetter die Zeichen der Gebetszeiten verbirgt oder man in einem Raum ohne Fenster eingesperrt ist. Wenn man in so einer Situation aber zum Beispiel einfach warten könnte bis man sich über die Zeit sicher ist, dürfte man dennoch Ijtihad machen. Es wäre jedoch empfohlen, zu warten bis man sich sicher ist, auch wenn man schon ohne das Warten beten dürfte.
+
+Es gäbe noch einige weitere Details zu diesem Thema, wie zum Beispiel die Unterscheidung des Ijtihads einer blinden und nicht-blinden Person, aber mir fehlt hierzu das Wissen.
+
+:green_book: [Mughni al-Muhtaj; https://shamela.ws/book/11444/223]
+:speaking_head: [Shaykh Hamzah Karamali (hafidhahullāh);
+Sharh Ibn Qasim, Kitab as-Salah;
+"3\. Conditions" -> "4\. Conditions for Validity";
+ab 55:00
+Link: https://1drv.ms/u/s!AnCryYRLIXLSkmuB_PjuDw0MzA7A?e=v7HEys]
+:speaking_head: [Shaykh Jamir Meah (hafidhahullāh);
+Matn Abu Shuja';
+"6\. Prayer Times, Prayer Obligation, Conditions, Integrals, Sunah" -> "6D - Conditions of the Prayer";
+ab 06:45
+Link: https://1drv.ms/u/s!AnCryYRLIXLSlBKWHZVeQ5zarr1Z?e=GVgBTq]
+
+* * *
+
+**Gebetszeitenberechnungen**
+
+Was Gebetszeitenberechnungen angeht, so wären diese laut der Madhhab eigentlich problematisch, weil sie ja keine Gewissheit ausdrücken. Sie entsprächen wohl eher dem Befolgen eines vertrauenswürdigen Ijtihads (Punkt 4) und wären somit erst befolgbar, wenn man keine Gewissheit über eine bestimmte Zeit erreichen kann.
+Zumindest habe ich das von Shaykh Masood Yusuf (hafidhahullah) so vermittelt bekommen (in einem Q&A einer Shafi'iFacebook-Gruppe) und es ergibt zumindest für mich Sinn, weil Berechnungen ja stark variieren können und nicht auf der gleichen Stufe wie eine Sichtung sein können. Allahu a'lam.
+
+Shaykh Hamzah Karamali (hafidhahullah) erwähnt jedoch, dass das Benutzen eines vertrauenswürdigen Gebetszeitenkalender in Kombination mit einer vertrauenswürdigen Uhr aber Punkt 1 zugeordnet werden kann.
+
+Unabhängig davon, was genau jetzt laut der offiziellen Meinung der Madhhab eigentlich der Fall ist:
+Shaykh Amjad Rashid (hafidhahullah) erwähnt eine zeitgenössische Fatwa von einem seiner Lehrer und den Gelehrten von Hadramawt (Yemen), dass Berechnungen ohne Weiteres befolgt werden können.
+https://islamqa.org/shafii/qibla-shafii/33442/relying-on-prayer-timetables/
+
+* * *
+
+Imam al-Kurdi (rahimahullah) sagte:
+والحاصِلُ أنَّ المَراتِبَ سِتٌّ:
+
+* أحَدُها إمْكانُ مَعْرِفَةِ الوَقْتِ بِيَقِينٍ
+* ثانِيها وُجُودُ مَن يُخْبِرُ عَنْ عِلْمٍ
+* ثالِثُها رُتْبَةٌ دُونَ الإخْبارِ عَنْ عِلْمٍ وفَوْقَ الِاجْتِهادِ وهِيَ المَناكِيبُ المُحَرَّرَةُ، والمُؤَذِّنُ الثِّقَةُ فِي الغَيْمِ
+* رابِعُها إمْكانُ الِاجْتِهادِ مِن البَصِيرِ
+* خامِسُها إمْكانُهُ مِن الأعْمى
+* سادِسُها عَدَمُ إمْكانِ الِاجْتِهادِ مِن الأعْمى، والبَصِيرِ
+
+فَصاحِبُ الأُولى يُخَيَّرُ بَيْنَها وبَيْنَ الثّانِيَةِ حَيْثُ وجَدَ مَن يُخْبِر عن علم فإن لم يجده خير بينهما وبين الثالثة فإن لم يجد الثالثة خير بين الأولى، والرابعة وصاحب الثانية لا يجوز له العدول إلى ما دونها وصاحب الثالثة يخير بينها وبين الاجتهاد وصاحب الرابعة لا يجوز له التقليد وصاحب الخامسة تخير بينها وبين السادسة وصاحب السادسة يقلد ثقة عارفا
+:green_book: [al-Hawashi al-Madaniyyah]
+
+Ich hab das hier noch ergänzt, weil man sonst einige gängige Aussagen in den Büchern falsch verstehen könnte, dass es unter dem Wissen zum Eintreten der Gebetszeit doch keine Hierarchie gäbe. Diese Aufzählung von Imam al-Kurdi (rahimahullah) wurde auch oft in anderen Werken der Madhhab zitiert, weil sie so anerkannt ist.
+Siehe z.B. hier in I'anat at-Talibin:
+https://shamela.ws/book/963/130
+
+* * *
+
+*Falls es aus dem Text nicht ganz klar hervorging:
+Wenn man weiß, dass die Gebetszeit eingetroffen ist, aber man sich unsicher ist, ob sie jetzt gerade noch ist oder ob sie schon abgelaufen ist, dann ist das aus Sicht dieser Bedingung kein Problem. Diese Bedingung bezieht sich **nur** auf das **Eintreten** der Gebetszeit. Nicht ob man gerade noch in der Gebetszeit ist.
+Ob die Gebetszeit **noch** ist, wäre dann eigentlich ein Thema von halal/haram und nicht von gültig/ungültig.
+
+Die Quellen sprechen deswegen auch immer von der Bedingung hinsichtlich des "Eintretens" der Gebetszeit.
+
+Wenn eine Person aus Versehen ein verpasstes Gebet beabsichtigt (weil die Gebetszeiten einfach nicht ganz klar waren), obwohl das Gebet doch nicht verpasst war, oder ein aktuelles Gebet beabsichtigt, obwohl das Gebet eigentlich verpasst war, dann wäre das auch kein Problem. Also nur weil man aus Versehen "verpasst" statt "aktuell" beabsichtigt, oder umgekehrt, ist das dann kein Problem.
+
+:green_book: [Mughni al-Muhtaj; https://shamela.ws/book/11444/258]

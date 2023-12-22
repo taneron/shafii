@@ -1,0 +1,34 @@
+---
+postslug: ""
+posted: 2019-06-05T13:04:31Z
+published: false
+title: "Zakāt al-Fitr"
+categories: ["Allgemein"]
+tags: []
+excerpt: "We can divide the time for the giving to zakāh al-fiṭr into 5 categories:(1) When it is permissible..."
+---
+
+#### Wann?
+
+We can divide the time for the giving to zakāh al-fiṭr into 5 categories:
+(1) When it is permissible but not yet obligatory - during the month of Ramaḍān.
+(2) The time the obligation becomes binding - sunset on the last day of Ramaḍān.
+(3) The most meritorious time (waqt al-faḍīlah) - before the Eid prayer.
+(4) The makrūh time - after the Eid prayer.
+(5) The ḥarām time - after the day of Eid is over.
+
+Zakat al-Fitr wird mit der letzten Sekunde des letzten Ramadan-Tages für eine Person notwendig.
+
+#### Was wenn man arm ist?
+
+Man muss so viel bezahlen wie man entbehren kann. [...]
+
+#### Höhe?
+
+Die Höhe des Zakat al-Fitr's hängt nicht davon ab, wie viel Geld man hat, sondern für wie viele Muslime man finanziell verantwortlich ist.
+
+Pro Person muss man ein Saa (= vier Mudd = vier volle Hände von Datteln/Getreide/... = rund 2 Liter). Es muss das gegeben werden, was in dem jeweiligen Ort, in dem man lebt, ein Grundnahrungsmittel darstellt.
+
+Nur laut dem Hanafi Madhhab darf man Zakat al-Fitr auch als Geld bezahlen. Laut Shaykh Hamzah Karamali folgen alle seine Shafi'i-Lehrer dieser Meinung und bezahlen diese mit Geld, weil es für die Zeit angemessener ist. Laut ihm würden die Leute sogar dazu neigen, das in Nahrung ausgezahlte Zakat al-Fitr (z.B. Reis) zu verkaufen, um einen größeren Nutzen davon zu ziehen.
+
+Man rechnet die Menge des jeweiligen Grundnahrungsmittels einfach in die entsprechende Geldmenge um.
