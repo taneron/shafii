@@ -6,6 +6,7 @@
     "dev": "TINA_PUBLIC_IS_LOCAL=true tinacms dev -c \"astro dev\"",
     "start": "astro dev",
     "build": "tinacms build && astro build && jampack ./dist",
+    "build:test": "astro build",
     "preview": "astro preview",
     "sync": "astro sync",
     "astro": "astro",

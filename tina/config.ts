@@ -147,7 +147,7 @@ export default defineConfig({
           },
           {
             type: "string",
-            name: "excerpt",
+            name: "description",
             label: "Excerpt",
             ui: {
               component: 'textarea',

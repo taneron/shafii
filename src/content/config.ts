@@ -19,7 +19,7 @@ const posts = defineCollection({
         .optional(),
       draft: z.boolean().optional(),
       tags: z.array(z.string()).default(["others"]),
-      excerpt: z.string(),
+      description: z.string(),
     }),
 });
 

@@ -14,7 +14,7 @@ export interface Props {
 
 const { post } = Astro.props;
 
-const { title, author, excerpt, image, postslug, date, tags } = post.data;
+const { title, author, description, image, postslug, date, tags } = post.data;
 
 const { Content } = await post.render();
 
@@ -30,7 +30,7 @@ const einleitung: boolean = true;
 <Layout
   title={title}
   author={author}
-  description={excerpt}
+  description={description}
   ogImage={ogUrl}
   canonicalURL={SITE.website + "/" + postslug}
 >
