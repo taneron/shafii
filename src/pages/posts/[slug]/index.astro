@@ -17,16 +17,11 @@ export async function getStaticPaths() {
     ({ data }) => data.published === true
   );
 
-  const postResult = posts.map(post => ({
-    params: { slug: slugify(post.data) },
-    props: { post },
-  }));
-
   const pagePaths = getPageNumbers(posts.length).map(pageNum => ({
     params: { slug: String(pageNum) },
   }));
 
-  return [...postResult, ...pagePaths];
+  return [...pagePaths];
 }
 
 const { slug } = Astro.params;
@@ -48,14 +43,8 @@ const startPost = lastPost - SITE.postPerPage;
 const paginatedPosts = sortedPosts.slice(startPost, lastPost);
 ---
 
-{
-  post ? (
-    <PostDetails post={post} />
-  ) : (
-    <Posts
-      posts={paginatedPosts}
-      pageNum={currentPage}
-      totalPages={totalPages.length}
-    />
-  )
-}
+<Posts
+  posts={paginatedPosts}
+  pageNum={currentPage}
+  totalPages={totalPages.length}
+/>
