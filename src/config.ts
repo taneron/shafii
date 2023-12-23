@@ -10,7 +10,7 @@ export const SITE: Site = {
   postPerPage: 3,
 };
 
-export const LOCALE = ["en-EN"]; // set to [] to use the environment default
+export const LOCALE = ["de-DE"]; // set to [] to use the environment default
 
 export const LOGO_IMAGE = {
   enable: false,
@@ -32,5 +32,4 @@ export const SOCIALS: SocialObjects = [
     linkTitle: `${SITE.title} auf Telegram`,
     active: true,
   },
-
 ];
