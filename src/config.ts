@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Ibn Abdullah",
   desc: "Fiqh gemäß den Methoden von Imām ash-Shāfi'ī und denjenigen, die ihm darin folgten.",
   title: "Shāfi'ī-Madhhab 🇵🇸",
-  ogImage: "shafii-logo-big.png",
+  ogImage: "/assets/logo-big.png",
   lightAndDarkMode: true,
   postPerPage: 3,
 };
@@ -13,10 +13,10 @@ export const SITE: Site = {
 export const LOCALE = ["de-DE"]; // set to [] to use the environment default
 
 export const LOGO_IMAGE = {
-  enable: false,
-  svg: true,
-  width: 216,
-  height: 46,
+  enable: true,
+  svg: false,
+  width: 48,
+  height: 48,
 };
 
 export const SOCIALS: SocialObjects = [
@@ -30,6 +30,12 @@ export const SOCIALS: SocialObjects = [
     name: "Telegram",
     href: "https://t.me/shafiimadhhab",
     linkTitle: `${SITE.title} auf Telegram`,
+    active: true,
+  },
+  {
+    name: "RSS",
+    href: "/rss.xml",
+    linkTitle: `${SITE.title} als RSS Feed`,
     active: true,
   },
 ];
